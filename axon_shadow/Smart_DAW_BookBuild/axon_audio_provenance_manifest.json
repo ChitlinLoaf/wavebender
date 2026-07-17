@@ -1,0 +1,87 @@
+{
+  "acoustic_profile": {
+    "identity_claim": false,
+    "profile_sha256": "b702b641dbb39fac8d44c4583c0972c82acc52c6e432270ab720f40608bf2a2d",
+    "raw_audio_embedded": false
+  },
+  "continuity_policy": {
+    "code_changes_require_branch": true,
+    "derived_json_requires_secret_scan": true,
+    "raw_audio_never_committed": true,
+    "remote_writes_require_preview": true,
+    "repository_deletion_disabled": true
+  },
+  "created_at": "2026-07-17T17:42:47.048810+00:00",
+  "github_code_references": [
+    {
+      "audio_relevance_score": 60,
+      "default_branch": "master",
+      "full_name": "ChitlinLoaf/wavebender",
+      "matched_signals": [
+        "audio",
+        "synth",
+        "wav",
+        "wave"
+      ]
+    },
+    {
+      "audio_relevance_score": 46,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/pipelines",
+      "matched_signals": [
+        "pipeline"
+      ]
+    },
+    {
+      "audio_relevance_score": 46,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/autogen",
+      "matched_signals": [
+        "pipeline"
+      ]
+    },
+    {
+      "audio_relevance_score": 26,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/LongWriter",
+      "matched_signals": [
+        "synth"
+      ]
+    },
+    {
+      "audio_relevance_score": 24,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/vllm",
+      "matched_signals": []
+    },
+    {
+      "audio_relevance_score": 24,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/Pillow",
+      "matched_signals": []
+    },
+    {
+      "audio_relevance_score": 4,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/desktop-tutorial",
+      "matched_signals": []
+    },
+    {
+      "audio_relevance_score": 0,
+      "default_branch": "main",
+      "full_name": "ChitlinLoaf/ProductionJunction",
+      "matched_signals": []
+    }
+  ],
+  "manifest_sha256": "e98d816d13b445fdbe1cd7f0f9cfbb0a997bfc6dab79935044943b61736ce4b2",
+  "schema_version": 1,
+  "source": {
+    "modified_by_axon": false,
+    "modified_timestamp": 1784126089.2174869,
+    "name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+    "size_bytes": 380904,
+    "uploaded_to_github": false
+  }
+}

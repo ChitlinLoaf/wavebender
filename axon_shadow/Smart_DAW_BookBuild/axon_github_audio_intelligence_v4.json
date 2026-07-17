@@ -1,0 +1,2973 @@
+{
+  "acoustic_profile": {
+    "amplitude_percentile_95": 0.049194253981113434,
+    "biometric_identity_claim": false,
+    "channels": 2,
+    "clipped_sample_count": 0,
+    "crest_factor_db": 9.611024539138533,
+    "dc_offset": 4.440642320906185e-06,
+    "duration_analyzed_seconds": 4.458231292517007,
+    "frames_analyzed": 196608,
+    "peak_dbfs": -22.499171314254163,
+    "peak_linear": 0.07499657571315765,
+    "person_identification_supported": false,
+    "profile_kind": "non-identifying acoustic signal profile",
+    "profile_sha256": "b702b641dbb39fac8d44c4583c0972c82acc52c6e432270ab720f40608bf2a2d",
+    "rms_dbfs": -32.110195853392696,
+    "rms_linear": 0.024802200119328086,
+    "sample_rate_hz": 44100.0,
+    "samples_analyzed": 196608,
+    "silence_ratio_below_minus_60_dbfs": 0.045064290364583336,
+    "source_name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "source_sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+    "spectral_features": {
+      "dominant_frequency_hz": 104.974365234375,
+      "numpy_available": true,
+      "spectral_centroid_hz": 1613.4174311109523,
+      "spectral_flatness": 0.03243612315237842,
+      "spectral_rolloff_85_hz": 3262.9531860351562
+    },
+    "zero_crossing_rate": 0.012883569760995285
+  },
+  "audio_inventory": [
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1784259893.6983418,
+      "name": "vocal_dna.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/vocal_dna.wav",
+      "size_bytes": 9813628
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1784167199.454786,
+      "name": "Big_Beautiful_Bill_Organ_Drone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Big_Beautiful_Bill_Organ_Drone.wav",
+      "size_bytes": 2881986
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1784126089.2174869,
+      "name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+      "size_bytes": 380904
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1784079622.0933878,
+      "name": "20260714_184022_73123dd18d_20260714_213131_New Recording 406.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260714_184022_73123dd18d_20260714_213131_New Recording 406.m4a",
+      "size_bytes": 3657566
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1784079622.0933878,
+      "name": "20260714_184022_73123dd18d_20260714_214856_New Recording 406.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260714_184022_73123dd18d_20260714_214856_New Recording 406.m4a",
+      "size_bytes": 3657566
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1783907388.7550015,
+      "name": "20260712_184948_714755a1ca_20260714_212148_New Recording 398.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260712_184948_714755a1ca_20260714_212148_New Recording 398.m4a",
+      "size_bytes": 2745482
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1783907388.7550015,
+      "name": "20260712_184948_714755a1ca_20260715_031312_20260714_212148_New Recording 398.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260712_184948_714755a1ca_20260715_031312_20260714_212148_New Recording 398.m4a",
+      "size_bytes": 2745482
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782740480.8939319,
+      "name": "20260629_064120_812f5f1b00_source_2026-06-29_06-41-20.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_source_2026-06-29_06-41-20.m4a",
+      "size_bytes": 223509
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782740480.8939319,
+      "name": "20260629_064120_812f5f1b00_a58117f8_source_2026-06-29_06-41-20.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_a58117f8_source_2026-06-29_06-41-20.m4a",
+      "size_bytes": 223509
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782740480.5479677,
+      "name": "20260629_064120_812f5f1b00_2b0422c8_fresh_vocal_2026-06-29_06-41-07.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_2b0422c8_fresh_vocal_2026-06-29_06-41-07.m4a",
+      "size_bytes": 223509
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782740480.5479677,
+      "name": "20260629_064120_812f5f1b00_fresh_vocal_2026-06-29_06-41-07.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_fresh_vocal_2026-06-29_06-41-07.m4a",
+      "size_bytes": 223509
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782703486.5676687,
+      "name": "20260628_202446_c6dbc67d14_source_2026-06-28_20-24-46.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_202446_c6dbc67d14_source_2026-06-28_20-24-46.m4a",
+      "size_bytes": 177700
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782703486.5676687,
+      "name": "20260628_202446_c6dbc67d14_76582777_source_2026-06-28_20-24-46.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_202446_c6dbc67d14_76582777_source_2026-06-28_20-24-46.m4a",
+      "size_bytes": 177700
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782702459.8200405,
+      "name": "20260628_200739_c48a0a34d0_ac7190b0_frontend_probe.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_200739_c48a0a34d0_ac7190b0_frontend_probe.m4a",
+      "size_bytes": 128054
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782702459.8200405,
+      "name": "20260628_200739_c48a0a34d0_frontend_probe.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_200739_c48a0a34d0_frontend_probe.m4a",
+      "size_bytes": 128054
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701412.8928843,
+      "name": "jules_voice_prompt_20260628_195000.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/jules_voice_prompt_20260628_195000.m4a",
+      "size_bytes": 233101
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701412.8928843,
+      "name": "20260628_195012_d10b8712af_jules_voice_prompt_20260628_195000.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_195012_d10b8712af_jules_voice_prompt_20260628_195000.m4a",
+      "size_bytes": 233101
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701412.8928843,
+      "name": "20260628_195012_d10b8712af_2c84dd2e_jules_voice_prompt_20260628_195000.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_195012_d10b8712af_2c84dd2e_jules_voice_prompt_20260628_195000.m4a",
+      "size_bytes": 233101
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701270.4181952,
+      "name": "jules_voice_prompt_20260628_194738.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/jules_voice_prompt_20260628_194738.m4a",
+      "size_bytes": 223225
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701270.4181952,
+      "name": "20260628_194750_0dbb28280e_jules_voice_prompt_20260628_194738.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_194750_0dbb28280e_jules_voice_prompt_20260628_194738.m4a",
+      "size_bytes": 223225
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782701270.4181952,
+      "name": "20260628_194750_0dbb28280e_434a2bfd_jules_voice_prompt_20260628_194738.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_194750_0dbb28280e_434a2bfd_jules_voice_prompt_20260628_194738.m4a",
+      "size_bytes": 223225
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700567.6456535,
+      "name": "voice_prompt_20260628_193557.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/voice_prompt_20260628_193557.m4a",
+      "size_bytes": 204964
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700567.6456535,
+      "name": "20260628_193607_7bb82c1d64_72b44428_voice_prompt_20260628_193557.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_193607_7bb82c1d64_72b44428_voice_prompt_20260628_193557.m4a",
+      "size_bytes": 204964
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700567.6456535,
+      "name": "20260628_193607_7bb82c1d64_voice_prompt_20260628_193557.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_193607_7bb82c1d64_voice_prompt_20260628_193557.m4a",
+      "size_bytes": 204964
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700366.9610064,
+      "name": "jules_voice_prompt_20260628_193236.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/jules_voice_prompt_20260628_193236.m4a",
+      "size_bytes": 193835
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700366.9610064,
+      "name": "20260628_193246_7b4d998b6e_8e46604a_jules_voice_prompt_20260628_193236.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_193246_7b4d998b6e_8e46604a_jules_voice_prompt_20260628_193236.m4a",
+      "size_bytes": 193835
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782700366.9610064,
+      "name": "20260628_193246_7b4d998b6e_jules_voice_prompt_20260628_193236.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260628_193246_7b4d998b6e_jules_voice_prompt_20260628_193236.m4a",
+      "size_bytes": 193835
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399618.0360668,
+      "name": "20260625_080018_69d10df6fe_02_full_step_out_on_the_count_now_we_activated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260625_080018_69d10df6fe_02_full_step_out_on_the_count_now_we_activated.m4a",
+      "size_bytes": 102543
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399618.0360668,
+      "name": "20260625_080018_69d10df6fe_dee62295_02_full_step_out_on_the_count_now_we_activated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260625_080018_69d10df6fe_dee62295_02_full_step_out_on_the_count_now_we_activated.m4a",
+      "size_bytes": 102543
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399618.0360668,
+      "name": "02_full_step_out_on_the_count_now_we_activated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/JSET_LINE_TAKES/jset_takes_20260625_075900/02_full_step_out_on_the_count_now_we_activated.m4a",
+      "size_bytes": 102543
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399587.7272809,
+      "name": "20260625_075947_eca54abcc9_f0b89280_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260625_075947_eca54abcc9_f0b89280_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "size_bytes": 108112
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399587.7272809,
+      "name": "20260625_075947_eca54abcc9_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260625_075947_eca54abcc9_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "size_bytes": 108112
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1782399587.7272809,
+      "name": "01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/JSET_LINE_TAKES/jset_takes_20260625_075900/01_doubling_up_the_pressure_now_we_syncopated.m4a",
+      "size_bytes": 108112
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782354102.5358465,
+      "name": "20260624_192024_sunset_dry_vocal.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_192024_sunset_dry_vocal.wav",
+      "size_bytes": 6253116
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782354039.694542,
+      "name": "20260624_192024_sunset_room_tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_192024_sunset_room_tone.wav",
+      "size_bytes": 1812100
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782351742.5024362,
+      "name": "20260624_184032_sunset_wet_sunset_preview.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/wet_previews/20260624_184032_sunset_wet_sunset_preview.wav",
+      "size_bytes": 1176332
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782351682.6272657,
+      "name": "20260624_184032_sunset_dry_vocal.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_184032_sunset_dry_vocal.wav",
+      "size_bytes": 2020640
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782351666.3407414,
+      "name": "20260624_184032_sunset_room_tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_184032_sunset_room_tone.wav",
+      "size_bytes": 1428004
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782351625.9972649,
+      "name": "20260624_183943_sunset_room_tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_183943_sunset_room_tone.wav",
+      "size_bytes": 5949432
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782351569.7119882,
+      "name": "20260624_183856_sunset_room_tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_183856_sunset_room_tone.wav",
+      "size_bytes": 4521116
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782350972.5269797,
+      "name": "confidence_lead_click_90bpm.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/audio_route_tests/confidence_lead_click_90bpm.wav",
+      "size_bytes": 940844
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782350969.8137288,
+      "name": "headphone_test_880hz.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/audio_route_tests/headphone_test_880hz.wav",
+      "size_bytes": 441044
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782350413.17961,
+      "name": "20260624_182001_hot_mic_take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_182001_hot_mic_take.wav",
+      "size_bytes": 1290168
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1782350360.2319386,
+      "name": "20260624_181401_hot_mic_take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/POCKET_PRODUCER_LAB/takes/20260624_181401_hot_mic_take.wav",
+      "size_bytes": 10228748
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1780789659.671201,
+      "name": "final_render.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/final_render.wav",
+      "size_bytes": 44
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773418.3582873,
+      "name": "20260606_121658_c6dbc67d14_002_New Recording 366.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121658_c6dbc67d14_002_New Recording 366.m4a",
+      "size_bytes": 177700
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773418.3582873,
+      "name": "20260606_121658_c6dbc67d14_a3809a3a_002_New Recording 366.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121658_c6dbc67d14_a3809a3a_002_New Recording 366.m4a",
+      "size_bytes": 177700
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773418.224368,
+      "name": "20260606_121658_72166793d0_94bbe074_007_New Recording 365.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121658_72166793d0_94bbe074_007_New Recording 365.m4a",
+      "size_bytes": 3926577
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773418.224368,
+      "name": "20260606_121658_72166793d0_007_New Recording 365.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121658_72166793d0_007_New Recording 365.m4a",
+      "size_bytes": 3926577
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773414.0633693,
+      "name": "20260606_121654_ea6627d4df_006_New Recording 360.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121654_ea6627d4df_006_New Recording 360.m4a",
+      "size_bytes": 1196593
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773414.0633693,
+      "name": "20260606_121654_ea6627d4df_ee609233_006_New Recording 360.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121654_ea6627d4df_ee609233_006_New Recording 360.m4a",
+      "size_bytes": 1196593
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773382.1195407,
+      "name": "20260606_121622_c1ca27421a_08ed92dc_West Los Angeles VA Medical Center 255.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121622_c1ca27421a_08ed92dc_West Los Angeles VA Medical Center 255.m4a",
+      "size_bytes": 8750065
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773382.1195407,
+      "name": "20260606_121622_c1ca27421a_West Los Angeles VA Medical Center 255.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121622_c1ca27421a_West Los Angeles VA Medical Center 255.m4a",
+      "size_bytes": 8750065
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773374.2972288,
+      "name": "20260606_121614_4549045843_8f2f933b_005_New Recording 352.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121614_4549045843_8f2f933b_005_New Recording 352.m4a",
+      "size_bytes": 1538237
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773374.2972288,
+      "name": "20260606_121614_4549045843_005_New Recording 352.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121614_4549045843_005_New Recording 352.m4a",
+      "size_bytes": 1538237
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773373.6259131,
+      "name": "20260606_121613_0c7cdc4d2b_1b67fe7f_003_New Recording 351.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121613_0c7cdc4d2b_1b67fe7f_003_New Recording 351.m4a",
+      "size_bytes": 979730
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773373.6259131,
+      "name": "20260606_121613_0c7cdc4d2b_003_New Recording 351.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121613_0c7cdc4d2b_003_New Recording 351.m4a",
+      "size_bytes": 979730
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773373.1304207,
+      "name": "20260606_121613_aa77bd8b6a_0238816a_West Los Angeles VA Medical Center 250.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121613_aa77bd8b6a_0238816a_West Los Angeles VA Medical Center 250.m4a",
+      "size_bytes": 5655538
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773373.1304207,
+      "name": "20260606_121613_aa77bd8b6a_West Los Angeles VA Medical Center 250.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121613_aa77bd8b6a_West Los Angeles VA Medical Center 250.m4a",
+      "size_bytes": 5655538
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780773370.1288998,
+      "name": "20260606_121610_f7c7af074e_f5ff4f48_West Los Angeles VA Medical Center 249.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260606_121610_f7c7af074e_f5ff4f48_West Los Angeles VA Medical Center 249.m4a",
+      "size_bytes": 1915522
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1780746486.146624,
+      "name": "omega_pro_bass_27.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/omega_pro_bass_27.wav",
+      "size_bytes": 595394
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1780746298.960671,
+      "name": "recursive_bass_17.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/recursive_bass_17.wav",
+      "size_bytes": 374894
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780551494.7851968,
+      "name": "Next_Song_Draft.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Next_Song_Draft.m4a",
+      "size_bytes": 188247
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1780117160.2825267,
+      "name": "West Los Angeles VA Medical Center 231.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/West Los Angeles VA Medical Center 231.m4a",
+      "size_bytes": 1944641
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1779881333.8088183,
+      "name": "mic.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/mic.wav",
+      "size_bytes": 534044
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.838634,
+      "name": "West Los Angeles VA Medical Center 205.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/West Los Angeles VA Medical Center 205.m4a",
+      "size_bytes": 710963
+    },
+    {
+      "extension": ".mp3",
+      "modified_timestamp": 1779702894.836807,
+      "name": "i-ain\u2019t-scared.mp3",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/i-ain\u2019t-scared.mp3",
+      "size_bytes": 3363510
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.834676,
+      "name": "West Los Angeles VA Medical Center 203.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/West Los Angeles VA Medical Center 203.m4a",
+      "size_bytes": 858870
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.832828,
+      "name": "West Los Angeles VA Medical Center 168 copy.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/West Los Angeles VA Medical Center 168 copy.m4a",
+      "size_bytes": 322025
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.830626,
+      "name": "New Recording 116.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 116.m4a",
+      "size_bytes": 757570
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.827927,
+      "name": "New Recording 174 2.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 174 2.m4a",
+      "size_bytes": 310956
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.825635,
+      "name": "New Recording 248.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 248.m4a",
+      "size_bytes": 213105
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.823657,
+      "name": "Cojutepeque Restaurant 3.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Cojutepeque Restaurant 3.m4a",
+      "size_bytes": 791804
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.821844,
+      "name": "New Recording 241.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 241.m4a",
+      "size_bytes": 1278579
+    },
+    {
+      "extension": ".mp3",
+      "modified_timestamp": 1779702894.819545,
+      "name": "gremlin-energy_1.mp3",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/gremlin-energy_1.mp3",
+      "size_bytes": 2877702
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.815612,
+      "name": "New Recording 305.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 305.m4a",
+      "size_bytes": 1209441
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.810831,
+      "name": "West Los Angeles VA Medical Center 142.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/West Los Angeles VA Medical Center 142.m4a",
+      "size_bytes": 232845
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.807011,
+      "name": "New Recording 118.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 118.m4a",
+      "size_bytes": 196546
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1779702894.804178,
+      "name": "audio.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/audio.wav",
+      "size_bytes": 1724354
+    },
+    {
+      "extension": ".mp3",
+      "modified_timestamp": 1779702894.801421,
+      "name": "song.mp3",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/song.mp3",
+      "size_bytes": 13728156
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.79818,
+      "name": "New Recording 175.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 175.m4a",
+      "size_bytes": 73570
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.791759,
+      "name": "N Sepulveda Blvd.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/N Sepulveda Blvd.m4a",
+      "size_bytes": 148916
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.786906,
+      "name": "New Recording 216.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 216.m4a",
+      "size_bytes": 4133734
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1779702894.779209,
+      "name": "1773340040_mic_vocalchain_1773355303.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/1773340040_mic_vocalchain_1773355303.wav",
+      "size_bytes": 170626
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1779702894.773357,
+      "name": "New Recording 301.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/New Recording 301.m4a",
+      "size_bytes": 174713
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1778747475.3030899,
+      "name": "recording.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/recording.m4a",
+      "size_bytes": 98630
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1778540755.1086025,
+      "name": "test.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/test.wav",
+      "size_bytes": 44144
+    },
+    {
+      "extension": ".mp3",
+      "modified_timestamp": 1777806445.5942185,
+      "name": "gremlin-energy.mp3",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/gremlin-energy.mp3",
+      "size_bytes": 2877702
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777750623.1259124,
+      "name": "vm_take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/vm_take.wav",
+      "size_bytes": 44
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777514323.667604,
+      "name": "temp.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/temp.wav",
+      "size_bytes": 534584
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777105216.392276,
+      "name": "take_1777105212.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1777105212.wav",
+      "size_bytes": 632348
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777105082.9934247,
+      "name": "take_1777105065.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1777105065.wav",
+      "size_bytes": 2797228
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777014029.4737453,
+      "name": "car_cabin_spectrogram_probe.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/car_cabin_spectrogram_probe.wav",
+      "size_bytes": 1777032
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777012470.0927367,
+      "name": "car_song_live_probe.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/car_song_live_probe.wav",
+      "size_bytes": 1780376
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1777011333.5942082,
+      "name": "car_song_probe.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/car_song_probe.wav",
+      "size_bytes": 1420000
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1776578512.8882375,
+      "name": "tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/tone.wav",
+      "size_bytes": 88244
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1776576658.2081003,
+      "name": "demo.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/demo.wav",
+      "size_bytes": 44144
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775411257.3027942,
+      "name": "RNB_MAJ9_1775411257.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/snd_lab/RNB_MAJ9_1775411257.wav",
+      "size_bytes": 1058444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775375326.779848,
+      "name": "dog_bark.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/dog_bark.wav",
+      "size_bytes": 35324
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775086070.0516708,
+      "name": "RNB_MAJ9_1775086070.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/snd_lab/RNB_MAJ9_1775086070.wav",
+      "size_bytes": 1058444
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1775077201.5287333,
+      "name": "wav.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/wav.m4a",
+      "size_bytes": 62195
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775077196.67069,
+      "name": "RNB_MAJ9_1775077196.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/snd_lab/RNB_MAJ9_1775077196.wav",
+      "size_bytes": 1058444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775061299.6532116,
+      "name": "take_1775061276.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775061276.wav",
+      "size_bytes": 3030708
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038369.8407693,
+      "name": "take_1775038369.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038369.wav",
+      "size_bytes": 130668
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038369.1693628,
+      "name": "take_1775038366.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038366.wav",
+      "size_bytes": 520856
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038366.2492185,
+      "name": "take_1775038364.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038364.wav",
+      "size_bytes": 233636
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038364.960574,
+      "name": "take_1775038362.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038362.wav",
+      "size_bytes": 394424
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038362.7525725,
+      "name": "take_1775038353.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038353.wav",
+      "size_bytes": 1577788
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775038176.7344503,
+      "name": "take_1775038172.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775038172.wav",
+      "size_bytes": 701872
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775037981.1854906,
+      "name": "take_1775037973.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1775037973.wav",
+      "size_bytes": 1286112
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775037183.2912138,
+      "name": "improved.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/improved.wav",
+      "size_bytes": 357016
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775036008.8578348,
+      "name": "preflight_test.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/preflight_test.wav",
+      "size_bytes": 361068
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1775024861.9923472,
+      "name": "take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take.wav",
+      "size_bytes": 301744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1774302929.7491622,
+      "name": "live_take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/live_take.wav",
+      "size_bytes": 1886576
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1774289046.2102308,
+      "name": "take_1774289046.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_1774289046.wav",
+      "size_bytes": 2048
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773751596.073559,
+      "name": "ui_take.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/ui_take.wav",
+      "size_bytes": 49217028
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130172.6972768,
+      "name": "take_3e5747.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_3e5747.caf.m4a",
+      "size_bytes": 131956
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130162.5739777,
+      "name": "take_df08e2.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_df08e2.caf.m4a",
+      "size_bytes": 133098
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130152.4526606,
+      "name": "take_c6efc2.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_c6efc2.caf.m4a",
+      "size_bytes": 133751
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130142.3333635,
+      "name": "take_43ce27.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_43ce27.caf.m4a",
+      "size_bytes": 133009
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130117.3088534,
+      "name": "take_7bec3a.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_7bec3a.caf.m4a",
+      "size_bytes": 132140
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773130083.010951,
+      "name": "take_7e2c44.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_7e2c44.caf.m4a",
+      "size_bytes": 134083
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773129521.5971665,
+      "name": "take_4fb7dc.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_4fb7dc.wav",
+      "size_bytes": 1067020
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773129511.4769025,
+      "name": "take_796f09.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_796f09.wav",
+      "size_bytes": 1062964
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773129501.358463,
+      "name": "take_3a65e9.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_3a65e9.wav",
+      "size_bytes": 1067020
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773129491.2380154,
+      "name": "take_325345.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_325345.wav",
+      "size_bytes": 1065756
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773129470.094663,
+      "name": "take_8d6a39.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/take_8d6a39.wav",
+      "size_bytes": 1067020
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1773128867.998215,
+      "name": "vocal_take_4b0beb62.caf.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/vocal_take_4b0beb62.caf.m4a",
+      "size_bytes": 130094
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1773127646.2169173,
+      "name": "garageband_test.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/garageband_test.wav",
+      "size_bytes": 88244
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772912754.6443663,
+      "name": "magic.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/magic.wav",
+      "size_bytes": 16
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772912591.4272633,
+      "name": "RNB_MAJ9_1772912591.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/snd_lab/RNB_MAJ9_1772912591.wav",
+      "size_bytes": 1058444
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1772152920.6047506,
+      "name": "AUDIO_2026-02-26_205433_fb363f35.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/_INGEST_QUEUE/AUDIO_2026-02-26_205433_fb363f35.m4a",
+      "size_bytes": 232845
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772101443.8105495,
+      "name": "live_1772101436.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772101436.wav",
+      "size_bytes": 1226960
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772098609.7325947,
+      "name": "live_1772098599.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772098599.wav",
+      "size_bytes": 1800932
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772098564.9089694,
+      "name": "live_1772098545.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772098545.wav",
+      "size_bytes": 3415644
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772098517.046633,
+      "name": "live_1772098501.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772098501.wav",
+      "size_bytes": 2710188
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772096845.478587,
+      "name": "live_1772096833.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772096833.wav",
+      "size_bytes": 2092984
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772096749.7217805,
+      "name": "live_1772096711.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/live_wave_studio/recordings/live_1772096711.wav",
+      "size_bytes": 6749828
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1772083531.6325352,
+      "name": "take_1772083506.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_studio_runtime/html_recordings/take_1772083506.wav",
+      "size_bytes": 4369584
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1771891129.8058982,
+      "name": "AUDIO_2026-02-26_205433_a3816f6f.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/_INGEST_QUEUE/AUDIO_2026-02-26_205433_a3816f6f.m4a",
+      "size_bytes": 1124760
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771838524.8087096,
+      "name": "processed.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/runtime/sessions/session_1771867324/processed.wav",
+      "size_bytes": 5906976
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771838524.8004556,
+      "name": "baseline.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/runtime/sessions/session_1771867324/baseline.wav",
+      "size_bytes": 530704
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771752200.477232,
+      "name": "ambient_1771752200.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/ambient_1771752200.wav",
+      "size_bytes": 432106
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771751963.633905,
+      "name": "studio_1771751963.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/studio_1771751963.wav",
+      "size_bytes": 432106
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771751915.5290391,
+      "name": "harmony_1771751915.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/harmony_1771751915.wav",
+      "size_bytes": 432106
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771751888.8568807,
+      "name": "ambient_1771751888.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/ambient_1771751888.wav",
+      "size_bytes": 432106
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771751301.3414257,
+      "name": "system_beep.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/system_beep.wav",
+      "size_bytes": 17684
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771751040.6007314,
+      "name": "variation_hardgrid_1771751040.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/variation_hardgrid_1771751040.wav",
+      "size_bytes": 221132
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771649093.335512,
+      "name": "processed_1771677890.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/processed_1771677890.wav",
+      "size_bytes": 442248
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771646531.1286035,
+      "name": "test_tone.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/test_tone.wav",
+      "size_bytes": 88244
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771552102.5239778,
+      "name": "car_20s.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/car_20s.wav",
+      "size_bytes": 3532096
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1771451019.6924675,
+      "name": "AUDIO_2026-02-26_205433_1bf66710.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/_INGEST_QUEUE/AUDIO_2026-02-26_205433_1bf66710.m4a",
+      "size_bytes": 155145
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771274012.8997812,
+      "name": "live_record.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/live_record.wav",
+      "size_bytes": 5336904
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771120793.8887992,
+      "name": "augmented_96_loop.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/augmented_96_loop.wav",
+      "size_bytes": 3528044
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1771066581.322421,
+      "name": "Das_Butt.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/Das_Butt.wav",
+      "size_bytes": 559872
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770986049.9774513,
+      "name": "A_MAJOR_011.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/A_MAJOR_011.wav",
+      "size_bytes": 352844
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770985987.516755,
+      "name": "D_MAJOR_019.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_019.wav",
+      "size_bytes": 282284
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770963755.2895293,
+      "name": "D_MAJOR_022.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_022.wav",
+      "size_bytes": 88244
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770860072.1282103,
+      "name": "C_MAJOR_150.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_150.wav",
+      "size_bytes": 357016
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770853701.3414702,
+      "name": "E_MAJOR_005.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_005.wav",
+      "size_bytes": 305348
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770838456.2437596,
+      "name": "E_MAJOR_002.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_002.wav",
+      "size_bytes": 264644
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770719964.5720007,
+      "name": "F_MAJOR_001.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/F_MAJOR_001.wav",
+      "size_bytes": 276404
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718805.7571723,
+      "name": "C_MAJOR_019.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_019.wav",
+      "size_bytes": 14744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718788.0235238,
+      "name": "C_MAJOR_024.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_024.wav",
+      "size_bytes": 29444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.7283523,
+      "name": "C_MAJOR_033.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_033.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.6669683,
+      "name": "C_MAJOR_182.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_182.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.4677284,
+      "name": "C_MAJOR_184.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_184.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.4053612,
+      "name": "C_MAJOR_191.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_191.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.193642,
+      "name": "D_MAJOR_021.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_021.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718780.087353,
+      "name": "C_MAJOR_221.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_221.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718779.9936688,
+      "name": "C_MAJOR_145.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_145.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718779.5544517,
+      "name": "C_MAJOR_193.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_193.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718779.3601594,
+      "name": "D_MAJOR_032.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_032.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718779.2922828,
+      "name": "E_MAJOR_010.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_010.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718779.097369,
+      "name": "C_MAJOR_027.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_027.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718778.9256818,
+      "name": "C_MAJOR_144.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_144.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718778.7936683,
+      "name": "C_MAJOR_155.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_155.wav",
+      "size_bytes": 10626
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718778.6231968,
+      "name": "C_MAJOR_147.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_147.wav",
+      "size_bytes": 117644
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718666.9683912,
+      "name": "C_MAJOR_026.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_026.wav",
+      "size_bytes": 29444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718666.255361,
+      "name": "C_MAJOR_035.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_035.wav",
+      "size_bytes": 58844
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770718596.0167377,
+      "name": "C_MAJOR_023.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_023.wav",
+      "size_bytes": 11804
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717486.8068225,
+      "name": "C_MAJOR_195.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_195.wav",
+      "size_bytes": 47084
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717324.7710354,
+      "name": "E_MAJOR_012.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_012.wav",
+      "size_bytes": 14744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717324.5820413,
+      "name": "C_MAJOR_194.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_194.wav",
+      "size_bytes": 14744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717319.0222847,
+      "name": "C_MAJOR_220.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_220.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717318.7092512,
+      "name": "C_MAJOR_151.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_151.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717313.0958908,
+      "name": "C_MAJOR_021.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_021.wav",
+      "size_bytes": 79424
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717289.501648,
+      "name": "C_MAJOR_152.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_152.wav",
+      "size_bytes": 11804
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717289.4558072,
+      "name": "C_MAJOR_008.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_008.wav",
+      "size_bytes": 10628
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717278.341086,
+      "name": "C_MAJOR_196.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_196.wav",
+      "size_bytes": 12070
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717265.1010516,
+      "name": "C_MAJOR_186.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_186.wav",
+      "size_bytes": 48152
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717159.5121806,
+      "name": "C_MAJOR_219.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_219.wav",
+      "size_bytes": 58844
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717152.9973288,
+      "name": "C_MAJOR_142.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_142.wav",
+      "size_bytes": 35324
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717152.85299,
+      "name": "D_MAJOR_035.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_035.wav",
+      "size_bytes": 35324
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717145.8109922,
+      "name": "C_MAJOR_208.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_208.wav",
+      "size_bytes": 13274
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717145.6499586,
+      "name": "C_MAJOR_153.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_153.wav",
+      "size_bytes": 13274
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717138.4569564,
+      "name": "C_MAJOR_143.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_143.wav",
+      "size_bytes": 110294
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717131.2442002,
+      "name": "C_MAJOR_146.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_146.wav",
+      "size_bytes": 110294
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717130.7448218,
+      "name": "C_MAJOR_209.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_209.wav",
+      "size_bytes": 189044
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717123.65246,
+      "name": "C_MAJOR_185.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_185.wav",
+      "size_bytes": 63548
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717115.0566537,
+      "name": "C_MAJOR_009.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_009.wav",
+      "size_bytes": 68840
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717107.7707725,
+      "name": "C_MAJOR_178.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_178.wav",
+      "size_bytes": 52964
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770717099.05738,
+      "name": "C_MAJOR_156.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_156.wav",
+      "size_bytes": 52964
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770686370.838369,
+      "name": "E_MAJOR_029.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_029.wav",
+      "size_bytes": 44144
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770686370.5163758,
+      "name": "E_MAJOR_004.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_004.wav",
+      "size_bytes": 44144
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770686309.6770778,
+      "name": "E_MAJOR_011.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_011.wav",
+      "size_bytes": 44144
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770686212.4968245,
+      "name": "E_MAJOR_016.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_016.wav",
+      "size_bytes": 88244
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770686173.5381546,
+      "name": "E_MAJOR_028.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_028.wav",
+      "size_bytes": 176444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770546667.2280345,
+      "name": "A_MAJOR_002.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/A_MAJOR_002.wav",
+      "size_bytes": 176444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770544746.4982898,
+      "name": "E_MAJOR_007.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_007.wav",
+      "size_bytes": 83834
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770544746.496573,
+      "name": "A_MAJOR_007.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/A_MAJOR_007.wav",
+      "size_bytes": 167624
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770544746.4915721,
+      "name": "E_MAJOR_013.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_013.wav",
+      "size_bytes": 26504
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770544746.461115,
+      "name": "C_MAJOR_218.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_218.wav",
+      "size_bytes": 13274
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770542992.7788017,
+      "name": "D_MAJOR_034.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_034.wav",
+      "size_bytes": 10628
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520765.7674408,
+      "name": "C_MAJOR_192.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_192.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520762.4613018,
+      "name": "C_MAJOR_157.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_157.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520752.7518435,
+      "name": "D_MAJOR_037.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_037.wav",
+      "size_bytes": 308744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520752.218558,
+      "name": "D_MAJOR_036.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_036.wav",
+      "size_bytes": 308744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520749.0198884,
+      "name": "D_MAJOR_027.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_027.wav",
+      "size_bytes": 308744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520746.8865466,
+      "name": "D_MAJOR_020.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_020.wav",
+      "size_bytes": 308744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520746.351868,
+      "name": "D_MAJOR_018.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_018.wav",
+      "size_bytes": 308744
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520743.1541088,
+      "name": "D_MAJOR_025.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_025.wav",
+      "size_bytes": 247002
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520738.8446388,
+      "name": "C_MAJOR_034.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_034.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520738.3112745,
+      "name": "C_MAJOR_037.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_037.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770520733.4597402,
+      "name": "C_MAJOR_197.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_197.wav",
+      "size_bytes": 13274
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770519830.8318214,
+      "name": "C_MAJOR_179.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_179.wav",
+      "size_bytes": 176444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770519826.09725,
+      "name": "C_MAJOR_181.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_181.wav",
+      "size_bytes": 176444
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770519760.5184057,
+      "name": "C_MAJOR_190.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_190.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770518835.122783,
+      "name": "D_MAJOR_026.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_026.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770518148.6776578,
+      "name": "A_MAJOR_003.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/A_MAJOR_003.wav",
+      "size_bytes": 105884
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770518146.3813627,
+      "name": "C_MAJOR_022.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_022.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770518145.8869061,
+      "name": "C_MAJOR_030.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_030.wav",
+      "size_bytes": 70604
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770518142.8672838,
+      "name": "C_MAJOR_140.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_140.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770517946.5492444,
+      "name": "C_MAJOR_187.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_187.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770517946.1893554,
+      "name": "C_MAJOR_183.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_183.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770517944.0516152,
+      "name": "C_MAJOR_020.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_020.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1770517943.616291,
+      "name": "C_MAJOR_025.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_025.wav",
+      "size_bytes": 220544
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1769594677.771784,
+      "name": "C_MAJOR_032.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/C_MAJOR_032.wav",
+      "size_bytes": 3532096
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1768948058.8509753,
+      "name": "E_MAJOR_017.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_017.wav",
+      "size_bytes": 1768916
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1768938488.1937304,
+      "name": "memo_20260120_114806.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/VoiceMemos/memo_20260120_114806.m4a",
+      "size_bytes": 57362
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1768938488.1937304,
+      "name": "memo_20260120_114806.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/VoiceMemos/memo_20260120_114806.m4a",
+      "size_bytes": 57362
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1766894853.9877288,
+      "name": "audio_1766894848.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/AtlasSystem/practice_day/artifacts/transcriptions/audio_1766894848.m4a",
+      "size_bytes": 14331993
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1766547816.450921,
+      "name": "E_MAJOR_014.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/E_MAJOR_014.wav",
+      "size_bytes": 94418
+    },
+    {
+      "extension": ".caf",
+      "modified_timestamp": 1766414189.704676,
+      "name": "temp.caf",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/temp.caf",
+      "size_bytes": 4096
+    },
+    {
+      "extension": ".caf",
+      "modified_timestamp": 1766414189.704676,
+      "name": "temp.caf",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/temp.caf",
+      "size_bytes": 4096
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1766402845.5769746,
+      "name": "AUDIO_2026-02-26_205433_2828ba32.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/_INGEST_QUEUE/AUDIO_2026-02-26_205433_2828ba32.m4a",
+      "size_bytes": 196546
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1766258856.0002568,
+      "name": "AUDIO_2026-02-26_205433_436e75cd.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/_INGEST_QUEUE/AUDIO_2026-02-26_205433_436e75cd.m4a",
+      "size_bytes": 1778156
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1764514717.5811064,
+      "name": "test.recording.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/ORACLE1_Onboarding/test.recording.m4a",
+      "size_bytes": 74542
+    },
+    {
+      "extension": ".wav",
+      "modified_timestamp": 1764044185.498349,
+      "name": "D_MAJOR_030.wav",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/_FULL_BACKUP_20260301_155054/vocal_engine/audio_hub/D_MAJOR_030.wav",
+      "size_bytes": 639494
+    },
+    {
+      "extension": ".m4a",
+      "modified_timestamp": 1758938640.9772043,
+      "name": "Across.Your.Pearls.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/ui/Across.Your.Pearls.m4a",
+      "size_bytes": 447525
+    }
+  ],
+  "generated_at": "2026-07-17T17:42:47.049360+00:00",
+  "github_account": {
+    "account_type": "User",
+    "authentication_http": 200,
+    "login": "ChitlinLoaf",
+    "private_repositories": 0,
+    "public_repositories": 6,
+    "rate_limit": 5000,
+    "rate_remaining": 4994,
+    "rate_used": 6
+  },
+  "github_audio_repositories": [
+    {
+      "archived": false,
+      "audio_relevance_score": 60,
+      "default_branch": "master",
+      "description": "Audio synthesis in Python.",
+      "fork": true,
+      "full_name": "ChitlinLoaf/wavebender",
+      "language": null,
+      "matched_signals": [
+        "audio",
+        "synth",
+        "wav",
+        "wave"
+      ],
+      "root_entries": [
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 24,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1078,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST",
+          "path": "MANIFEST",
+          "size": 25,
+          "type": "file"
+        },
+        {
+          "name": "README.markdown",
+          "path": "README.markdown",
+          "size": 227,
+          "type": "file"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 509,
+          "type": "file"
+        },
+        {
+          "name": "wavebender",
+          "path": "wavebender",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "size_kb": 29
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 46,
+      "default_branch": "main",
+      "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+      "fork": true,
+      "full_name": "ChitlinLoaf/pipelines",
+      "language": "Python",
+      "matched_signals": [
+        "pipeline"
+      ],
+      "root_entries": [
+        {
+          "name": ".dockerignore",
+          "path": ".dockerignore",
+          "size": 10,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 85,
+          "type": "file"
+        },
+        {
+          "name": "CONTRIBUTING.md",
+          "path": "CONTRIBUTING.md",
+          "size": 3079,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile",
+          "path": "Dockerfile",
+          "size": 992,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1078,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 6081,
+          "type": "file"
+        },
+        {
+          "name": "blueprints",
+          "path": "blueprints",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "config.py",
+          "path": "config.py",
+          "size": 377,
+          "type": "file"
+        },
+        {
+          "name": "deterministic-runtime",
+          "path": "deterministic-runtime",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "dev-docker.sh",
+          "path": "dev-docker.sh",
+          "size": 831,
+          "type": "file"
+        },
+        {
+          "name": "dev.sh",
+          "path": "dev.sh",
+          "size": 100,
+          "type": "file"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "header.png",
+          "path": "header.png",
+          "size": 28696,
+          "type": "file"
+        },
+        {
+          "name": "main.py",
+          "path": "main.py",
+          "size": 25381,
+          "type": "file"
+        },
+        {
+          "name": "pipelines",
+          "path": "pipelines",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "requirements.txt",
+          "path": "requirements.txt",
+          "size": 682,
+          "type": "file"
+        },
+        {
+          "name": "schemas.py",
+          "path": "schemas.py",
+          "size": 728,
+          "type": "file"
+        },
+        {
+          "name": "start.bat",
+          "path": "start.bat",
+          "size": 116,
+          "type": "file"
+        },
+        {
+          "name": "start.sh",
+          "path": "start.sh",
+          "size": 4080,
+          "type": "file"
+        },
+        {
+          "name": "utils",
+          "path": "utils",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "size_kb": 533
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 46,
+      "default_branch": "main",
+      "description": "A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap",
+      "fork": true,
+      "full_name": "ChitlinLoaf/autogen",
+      "language": "Jupyter Notebook",
+      "matched_signals": [
+        "pipeline"
+      ],
+      "root_entries": [
+        {
+          "name": ".coveragerc",
+          "path": ".coveragerc",
+          "size": 65,
+          "type": "file"
+        },
+        {
+          "name": ".devcontainer",
+          "path": ".devcontainer",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 2548,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 2666,
+          "type": "file"
+        },
+        {
+          "name": ".pre-commit-config.yaml",
+          "path": ".pre-commit-config.yaml",
+          "size": 2089,
+          "type": "file"
+        },
+        {
+          "name": "CITATION.cff",
+          "path": "CITATION.cff",
+          "size": 1704,
+          "type": "file"
+        },
+        {
+          "name": "CODE_OF_CONDUCT.md",
+          "path": "CODE_OF_CONDUCT.md",
+          "size": 444,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 18650,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE-CODE",
+          "path": "LICENSE-CODE",
+          "size": 1141,
+          "type": "file"
+        },
+        {
+          "name": "OAI_CONFIG_LIST_sample",
+          "path": "OAI_CONFIG_LIST_sample",
+          "size": 1447,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 21840,
+          "type": "file"
+        },
+        {
+          "name": "SECURITY.md",
+          "path": "SECURITY.md",
+          "size": 2756,
+          "type": "file"
+        },
+        {
+          "name": "TRANSPARENCY_FAQS.md",
+          "path": "TRANSPARENCY_FAQS.md",
+          "size": 9373,
+          "type": "file"
+        },
+        {
+          "name": "autogen",
+          "path": "autogen",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "azure-pipelines.yml",
+          "path": "azure-pipelines.yml",
+          "size": 673,
+          "type": "file"
+        },
+        {
+          "name": "code_audit_report.json",
+          "path": "code_audit_report.json",
+          "size": 195168,
+          "type": "file"
+        },
+        {
+          "name": "dotnet",
+          "path": "dotnet",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "notebook",
+          "path": "notebook",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 2454,
+          "type": "file"
+        },
+        {
+          "name": "samples",
+          "path": "samples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "scripts",
+          "path": "scripts",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 3521,
+          "type": "file"
+        },
+        {
+          "name": "test",
+          "path": "test",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "website",
+          "path": "website",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "size_kb": 938272
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 26,
+      "default_branch": "main",
+      "description": "LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs",
+      "fork": true,
+      "full_name": "ChitlinLoaf/LongWriter",
+      "language": "Python",
+      "matched_signals": [
+        "synth"
+      ],
+      "root_entries": [
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 32,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE.txt",
+          "path": "LICENSE.txt",
+          "size": 11343,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 78036,
+          "type": "file"
+        },
+        {
+          "name": "README_jp.md",
+          "path": "README_jp.md",
+          "size": 78286,
+          "type": "file"
+        },
+        {
+          "name": "README_zh.md",
+          "path": "README_zh.md",
+          "size": 77142,
+          "type": "file"
+        },
+        {
+          "name": "agentwrite",
+          "path": "agentwrite",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "evaluation",
+          "path": "evaluation",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "jules_zen_studio",
+          "path": "jules_zen_studio",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pitch_monitor_ui.html",
+          "path": "pitch_monitor_ui.html",
+          "size": 13619,
+          "type": "file"
+        },
+        {
+          "name": "requirements.txt",
+          "path": "requirements.txt",
+          "size": 110,
+          "type": "file"
+        },
+        {
+          "name": "semantic_inputs",
+          "path": "semantic_inputs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "semantic_outputs",
+          "path": "semantic_outputs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "semantic_synthesis",
+          "path": "semantic_synthesis",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "train",
+          "path": "train",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "trans_web_demo.py",
+          "path": "trans_web_demo.py",
+          "size": 5299,
+          "type": "file"
+        },
+        {
+          "name": "vllm_inference.py",
+          "path": "vllm_inference.py",
+          "size": 837,
+          "type": "file"
+        }
+      ],
+      "size_kb": 255
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 24,
+      "default_branch": "main",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "fork": true,
+      "full_name": "ChitlinLoaf/vllm",
+      "language": null,
+      "matched_signals": [],
+      "root_entries": [
+        {
+          "name": ".buildkite",
+          "path": ".buildkite",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".clang-format",
+          "path": ".clang-format",
+          "size": 641,
+          "type": "file"
+        },
+        {
+          "name": ".dockerignore",
+          "path": ".dockerignore",
+          "size": 29,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 3481,
+          "type": "file"
+        },
+        {
+          "name": ".readthedocs.yaml",
+          "path": ".readthedocs.yaml",
+          "size": 488,
+          "type": "file"
+        },
+        {
+          "name": ".yapfignore",
+          "path": ".yapfignore",
+          "size": 15,
+          "type": "file"
+        },
+        {
+          "name": "CMakeLists.txt",
+          "path": "CMakeLists.txt",
+          "size": 11016,
+          "type": "file"
+        },
+        {
+          "name": "CODE_OF_CONDUCT.md",
+          "path": "CODE_OF_CONDUCT.md",
+          "size": 5337,
+          "type": "file"
+        },
+        {
+          "name": "CONTRIBUTING.md",
+          "path": "CONTRIBUTING.md",
+          "size": 1823,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile",
+          "path": "Dockerfile",
+          "size": 8808,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.cpu",
+          "path": "Dockerfile.cpu",
+          "size": 2920,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.neuron",
+          "path": "Dockerfile.neuron",
+          "size": 1274,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.openvino",
+          "path": "Dockerfile.openvino",
+          "size": 1068,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.ppc64le",
+          "path": "Dockerfile.ppc64le",
+          "size": 1148,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.rocm",
+          "path": "Dockerfile.rocm",
+          "size": 6544,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.tpu",
+          "path": "Dockerfile.tpu",
+          "size": 829,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.xpu",
+          "path": "Dockerfile.xpu",
+          "size": 1245,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 11357,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST.in",
+          "path": "MANIFEST.in",
+          "size": 244,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 7234,
+          "type": "file"
+        },
+        {
+          "name": "benchmarks",
+          "path": "benchmarks",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "cmake",
+          "path": "cmake",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "collect_env.py",
+          "path": "collect_env.py",
+          "size": 25265,
+          "type": "file"
+        },
+        {
+          "name": "csrc",
+          "path": "csrc",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "format.sh",
+          "path": "format.sh",
+          "size": 9755,
+          "type": "file"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 1861,
+          "type": "file"
+        },
+        {
+          "name": "requirements-build.txt",
+          "path": "requirements-build.txt",
+          "size": 120,
+          "type": "file"
+        },
+        {
+          "name": "requirements-common.txt",
+          "path": "requirements-common.txt",
+          "size": 1044,
+          "type": "file"
+        },
+        {
+          "name": "requirements-cpu.txt",
+          "path": "requirements-cpu.txt",
+          "size": 258,
+          "type": "file"
+        },
+        {
+          "name": "requirements-cuda.txt",
+          "path": "requirements-cuda.txt",
+          "size": 555,
+          "type": "file"
+        },
+        {
+          "name": "requirements-dev.txt",
+          "path": "requirements-dev.txt",
+          "size": 152,
+          "type": "file"
+        },
+        {
+          "name": "requirements-lint.txt",
+          "path": "requirements-lint.txt",
+          "size": 191,
+          "type": "file"
+        },
+        {
+          "name": "requirements-neuron.txt",
+          "path": "requirements-neuron.txt",
+          "size": 148,
+          "type": "file"
+        },
+        {
+          "name": "requirements-openvino.txt",
+          "path": "requirements-openvino.txt",
+          "size": 144,
+          "type": "file"
+        },
+        {
+          "name": "requirements-rocm.txt",
+          "path": "requirements-rocm.txt",
+          "size": 151,
+          "type": "file"
+        },
+        {
+          "name": "requirements-test.txt",
+          "path": "requirements-test.txt",
+          "size": 784,
+          "type": "file"
+        },
+        {
+          "name": "requirements-tpu.txt",
+          "path": "requirements-tpu.txt",
+          "size": 208,
+          "type": "file"
+        },
+        {
+          "name": "requirements-xpu.txt",
+          "path": "requirements-xpu.txt",
+          "size": 724,
+          "type": "file"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 17191,
+          "type": "file"
+        },
+        {
+          "name": "tests",
+          "path": "tests",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "vllm",
+          "path": "vllm",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "size_kb": 27241
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 24,
+      "default_branch": "main",
+      "description": "Python Imaging Library (Fork)",
+      "fork": true,
+      "full_name": "ChitlinLoaf/Pillow",
+      "language": null,
+      "matched_signals": [],
+      "root_entries": [
+        {
+          "name": ".appveyor.yml",
+          "path": ".appveyor.yml",
+          "size": 3311,
+          "type": "file"
+        },
+        {
+          "name": ".ci",
+          "path": ".ci",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".clang-format",
+          "path": ".clang-format",
+          "size": 545,
+          "type": "file"
+        },
+        {
+          "name": ".coveragerc",
+          "path": ".coveragerc",
+          "size": 647,
+          "type": "file"
+        },
+        {
+          "name": ".editorconfig",
+          "path": ".editorconfig",
+          "size": 383,
+          "type": "file"
+        },
+        {
+          "name": ".git-blame-ignore-revs",
+          "path": ".git-blame-ignore-revs",
+          "size": 189,
+          "type": "file"
+        },
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 45,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 1072,
+          "type": "file"
+        },
+        {
+          "name": ".gitmodules",
+          "path": ".gitmodules",
+          "size": 110,
+          "type": "file"
+        },
+        {
+          "name": ".pre-commit-config.yaml",
+          "path": ".pre-commit-config.yaml",
+          "size": 2020,
+          "type": "file"
+        },
+        {
+          "name": ".readthedocs.yml",
+          "path": ".readthedocs.yml",
+          "size": 322,
+          "type": "file"
+        },
+        {
+          "name": "CHANGES.rst",
+          "path": "CHANGES.rst",
+          "size": 201843,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1455,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST.in",
+          "path": "MANIFEST.in",
+          "size": 549,
+          "type": "file"
+        },
+        {
+          "name": "Makefile",
+          "path": "Makefile",
+          "size": 3959,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 6415,
+          "type": "file"
+        },
+        {
+          "name": "RELEASING.md",
+          "path": "RELEASING.md",
+          "size": 4362,
+          "type": "file"
+        },
+        {
+          "name": "Tests",
+          "path": "Tests",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "_custom_build",
+          "path": "_custom_build",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "codecov.yml",
+          "path": "codecov.yml",
+          "size": 507,
+          "type": "file"
+        },
+        {
+          "name": "conftest.py",
+          "path": "conftest.py",
+          "size": 70,
+          "type": "file"
+        },
+        {
+          "name": "depends",
+          "path": "depends",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 4529,
+          "type": "file"
+        },
+        {
+          "name": "selftest.py",
+          "path": "selftest.py",
+          "size": 4799,
+          "type": "file"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 36722,
+          "type": "file"
+        },
+        {
+          "name": "src",
+          "path": "src",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "tox.ini",
+          "path": "tox.ini",
+          "size": 640,
+          "type": "file"
+        },
+        {
+          "name": "wheels",
+          "path": "wheels",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "winbuild",
+          "path": "winbuild",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "size_kb": 203439
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 4,
+      "default_branch": "main",
+      "description": "GitHub Desktop tutorial repository",
+      "fork": false,
+      "full_name": "ChitlinLoaf/desktop-tutorial",
+      "language": null,
+      "matched_signals": [],
+      "root_entries": [
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 220,
+          "type": "file"
+        }
+      ],
+      "size_kb": 1
+    },
+    {
+      "archived": false,
+      "audio_relevance_score": 0,
+      "default_branch": "main",
+      "description": "advocacy self help",
+      "fork": false,
+      "full_name": "ChitlinLoaf/ProductionJunction",
+      "language": null,
+      "matched_signals": [],
+      "root_entries": [
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 66,
+          "type": "file"
+        }
+      ],
+      "size_kb": 0
+    }
+  ],
+  "github_credential": {
+    "fingerprint": "ea2ee2b1ac45",
+    "keychain_account": "token",
+    "keychain_service": "AXON_GITHUB",
+    "token_serialized": false
+  },
+  "integration_plan": [
+    {
+      "audio_profile_link": "Use the acoustic profile as bounded test input metadata, never as identity evidence.",
+      "priority": 1,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/wavebender",
+      "role": "Waveform and synthesis laboratory",
+      "use": "Evaluate reusable waveform, oscillator, sample-generation, and WAV export code."
+    },
+    {
+      "audio_profile_link": "Version the feature schema and regression tests while excluding recordings.",
+      "priority": 2,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/pipelines",
+      "role": "Repeatable audio-analysis workflow",
+      "use": "Adapt pipeline structure for decode, meter, feature extraction, validation, and reports."
+    },
+    {
+      "audio_profile_link": "Coordinate DecoderAgent, SignalTruthAgent, DSPAgent, GitHubAgent, and TestAgent.",
+      "priority": 3,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/autogen",
+      "role": "Multi-agent orchestration reference",
+      "use": "Study bounded task routing, critic review, handoffs, retries, and release arbitration."
+    },
+    {
+      "audio_profile_link": "Compare code capability with profile schema b702b641dbb3.",
+      "priority": 4,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/LongWriter",
+      "role": "Audio-related code review candidate",
+      "use": "Inspect matched signals: synth."
+    },
+    {
+      "audio_profile_link": "Compare code capability with profile schema b702b641dbb3.",
+      "priority": 5,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/vllm",
+      "role": "Audio-related code review candidate",
+      "use": "Inspect matched signals: structural match."
+    },
+    {
+      "audio_profile_link": "Compare code capability with profile schema b702b641dbb3.",
+      "priority": 6,
+      "remote_write_performed": false,
+      "repository": "ChitlinLoaf/Pillow",
+      "role": "Audio-related code review candidate",
+      "use": "Inspect matched signals: structural match."
+    }
+  ],
+  "pcm_truth": {
+    "channels": 2,
+    "chunks_read": 12,
+    "duration_probed_seconds": 4.458231292517007,
+    "finite_samples": 393216,
+    "frames_read": 196608,
+    "nonzero_samples": 393216,
+    "sample_rate_hz": 44100.0,
+    "source_hash_unchanged": true,
+    "source_modified": false,
+    "source_name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "source_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "source_sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+    "total_frames": 1041344
+  },
+  "provenance": {
+    "acoustic_profile": {
+      "identity_claim": false,
+      "profile_sha256": "b702b641dbb39fac8d44c4583c0972c82acc52c6e432270ab720f40608bf2a2d",
+      "raw_audio_embedded": false
+    },
+    "continuity_policy": {
+      "code_changes_require_branch": true,
+      "derived_json_requires_secret_scan": true,
+      "raw_audio_never_committed": true,
+      "remote_writes_require_preview": true,
+      "repository_deletion_disabled": true
+    },
+    "created_at": "2026-07-17T17:42:47.048810+00:00",
+    "github_code_references": [
+      {
+        "audio_relevance_score": 60,
+        "default_branch": "master",
+        "full_name": "ChitlinLoaf/wavebender",
+        "matched_signals": [
+          "audio",
+          "synth",
+          "wav",
+          "wave"
+        ]
+      },
+      {
+        "audio_relevance_score": 46,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/pipelines",
+        "matched_signals": [
+          "pipeline"
+        ]
+      },
+      {
+        "audio_relevance_score": 46,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/autogen",
+        "matched_signals": [
+          "pipeline"
+        ]
+      },
+      {
+        "audio_relevance_score": 26,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/LongWriter",
+        "matched_signals": [
+          "synth"
+        ]
+      },
+      {
+        "audio_relevance_score": 24,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/vllm",
+        "matched_signals": []
+      },
+      {
+        "audio_relevance_score": 24,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/Pillow",
+        "matched_signals": []
+      },
+      {
+        "audio_relevance_score": 4,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/desktop-tutorial",
+        "matched_signals": []
+      },
+      {
+        "audio_relevance_score": 0,
+        "default_branch": "main",
+        "full_name": "ChitlinLoaf/ProductionJunction",
+        "matched_signals": []
+      }
+    ],
+    "manifest_sha256": "e98d816d13b445fdbe1cd7f0f9cfbb0a997bfc6dab79935044943b61736ce4b2",
+    "schema_version": 1,
+    "source": {
+      "modified_by_axon": false,
+      "modified_timestamp": 1784126089.2174869,
+      "name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+      "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Audio_Library/Recent_M4A/20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+      "sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+      "size_bytes": 380904,
+      "uploaded_to_github": false
+    }
+  },
+  "repository_warnings": [],
+  "safety": {
+    "biometric_identity_claim": false,
+    "branch_creation": false,
+    "commit_creation": false,
+    "github_http_methods": [
+      "GET"
+    ],
+    "raw_audio_upload": false,
+    "repository_deletion": false,
+    "repository_mutation": false,
+    "source_audio_mutation": false
+  },
+  "schema_version": 4,
+  "session_id": "8818B1D7-AUDIO-832710"
+}

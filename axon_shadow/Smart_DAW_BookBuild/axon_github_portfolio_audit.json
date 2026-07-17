@@ -1,0 +1,1302 @@
+{
+  "account": {
+    "account_type": "User",
+    "login": "ChitlinLoaf",
+    "owned_private_repositories": 0,
+    "public_repositories": 6,
+    "rate_limit": "5000",
+    "rate_limit_remaining": "4998",
+    "rate_limit_reset": "1784313086"
+  },
+  "credential": {
+    "fingerprint": "ea2ee2b1ac45",
+    "keychain_account": "token",
+    "keychain_service": "AXON_GITHUB",
+    "token_value_serialized": false
+  },
+  "generated_at": "2026-07-17T17:37:22.950606+00:00",
+  "operation": "Authenticated read-only GitHub portfolio audit",
+  "rate_limit": {
+    "limit": 5000,
+    "remaining": 5000,
+    "reset": 1784313438,
+    "used": 0
+  },
+  "repositories": [
+    {
+      "archived": false,
+      "classification": "KEEP ACTIVE",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Reusable project or source-code structure detected."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-09-15T22:00:02Z",
+      "days_since_push": 12,
+      "default_branch": "main",
+      "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/pipelines",
+      "homepage": "",
+      "language": "Python",
+      "name": "pipelines",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2026-07-05T16:36:30Z",
+      "root_entries": [
+        {
+          "name": ".dockerignore",
+          "path": ".dockerignore",
+          "size": 10,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 85,
+          "type": "file"
+        },
+        {
+          "name": "CONTRIBUTING.md",
+          "path": "CONTRIBUTING.md",
+          "size": 3079,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile",
+          "path": "Dockerfile",
+          "size": 992,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1078,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 6081,
+          "type": "file"
+        },
+        {
+          "name": "blueprints",
+          "path": "blueprints",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "config.py",
+          "path": "config.py",
+          "size": 377,
+          "type": "file"
+        },
+        {
+          "name": "deterministic-runtime",
+          "path": "deterministic-runtime",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "dev-docker.sh",
+          "path": "dev-docker.sh",
+          "size": 831,
+          "type": "file"
+        },
+        {
+          "name": "dev.sh",
+          "path": "dev.sh",
+          "size": 100,
+          "type": "file"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "header.png",
+          "path": "header.png",
+          "size": 28696,
+          "type": "file"
+        },
+        {
+          "name": "main.py",
+          "path": "main.py",
+          "size": 25381,
+          "type": "file"
+        },
+        {
+          "name": "pipelines",
+          "path": "pipelines",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "requirements.txt",
+          "path": "requirements.txt",
+          "size": 682,
+          "type": "file"
+        },
+        {
+          "name": "schemas.py",
+          "path": "schemas.py",
+          "size": 728,
+          "type": "file"
+        },
+        {
+          "name": "start.bat",
+          "path": "start.bat",
+          "size": 116,
+          "type": "file"
+        },
+        {
+          "name": "start.sh",
+          "path": "start.sh",
+          "size": 4080,
+          "type": "file"
+        },
+        {
+          "name": "utils",
+          "path": "utils",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "signals": {
+        "has_ci": true,
+        "has_docs": true,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": true,
+        "has_tests": false,
+        "root_directory_count": 7,
+        "root_entry_count": 22,
+        "root_file_count": 15
+      },
+      "size_kb": 533,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2026-07-05T16:36:36Z",
+      "usefulness_score": 80,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "KEEP ACTIVE",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Reusable project or source-code structure detected."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-09-06T06:45:05Z",
+      "days_since_push": 55,
+      "default_branch": "main",
+      "description": "LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/LongWriter",
+      "homepage": "",
+      "language": "Python",
+      "name": "LongWriter",
+      "open_issues": 6,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2026-05-22T20:47:23Z",
+      "root_entries": [
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 32,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE.txt",
+          "path": "LICENSE.txt",
+          "size": 11343,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 78036,
+          "type": "file"
+        },
+        {
+          "name": "README_jp.md",
+          "path": "README_jp.md",
+          "size": 78286,
+          "type": "file"
+        },
+        {
+          "name": "README_zh.md",
+          "path": "README_zh.md",
+          "size": 77142,
+          "type": "file"
+        },
+        {
+          "name": "agentwrite",
+          "path": "agentwrite",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "evaluation",
+          "path": "evaluation",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "jules_zen_studio",
+          "path": "jules_zen_studio",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pitch_monitor_ui.html",
+          "path": "pitch_monitor_ui.html",
+          "size": 13619,
+          "type": "file"
+        },
+        {
+          "name": "requirements.txt",
+          "path": "requirements.txt",
+          "size": 110,
+          "type": "file"
+        },
+        {
+          "name": "semantic_inputs",
+          "path": "semantic_inputs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "semantic_outputs",
+          "path": "semantic_outputs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "semantic_synthesis",
+          "path": "semantic_synthesis",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "train",
+          "path": "train",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "trans_web_demo.py",
+          "path": "trans_web_demo.py",
+          "size": 5299,
+          "type": "file"
+        },
+        {
+          "name": "vllm_inference.py",
+          "path": "vllm_inference.py",
+          "size": 837,
+          "type": "file"
+        }
+      ],
+      "signals": {
+        "has_ci": true,
+        "has_docs": false,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": true,
+        "has_tests": false,
+        "root_directory_count": 8,
+        "root_entry_count": 17,
+        "root_file_count": 9
+      },
+      "size_kb": 255,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2026-05-13T05:36:29Z",
+      "usefulness_score": 78,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "BINARY / SIZE REVIEW",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Repository size exceeds 100000 KB."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-04-16T10:46:17Z",
+      "days_since_push": 158,
+      "default_branch": "main",
+      "description": "A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/autogen",
+      "homepage": "https://microsoft.github.io/autogen/",
+      "language": "Jupyter Notebook",
+      "name": "autogen",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2026-02-08T19:51:12Z",
+      "root_entries": [
+        {
+          "name": ".coveragerc",
+          "path": ".coveragerc",
+          "size": 65,
+          "type": "file"
+        },
+        {
+          "name": ".devcontainer",
+          "path": ".devcontainer",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 2548,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 2666,
+          "type": "file"
+        },
+        {
+          "name": ".pre-commit-config.yaml",
+          "path": ".pre-commit-config.yaml",
+          "size": 2089,
+          "type": "file"
+        },
+        {
+          "name": "CITATION.cff",
+          "path": "CITATION.cff",
+          "size": 1704,
+          "type": "file"
+        },
+        {
+          "name": "CODE_OF_CONDUCT.md",
+          "path": "CODE_OF_CONDUCT.md",
+          "size": 444,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 18650,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE-CODE",
+          "path": "LICENSE-CODE",
+          "size": 1141,
+          "type": "file"
+        },
+        {
+          "name": "OAI_CONFIG_LIST_sample",
+          "path": "OAI_CONFIG_LIST_sample",
+          "size": 1447,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 21840,
+          "type": "file"
+        },
+        {
+          "name": "SECURITY.md",
+          "path": "SECURITY.md",
+          "size": 2756,
+          "type": "file"
+        },
+        {
+          "name": "TRANSPARENCY_FAQS.md",
+          "path": "TRANSPARENCY_FAQS.md",
+          "size": 9373,
+          "type": "file"
+        },
+        {
+          "name": "autogen",
+          "path": "autogen",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "azure-pipelines.yml",
+          "path": "azure-pipelines.yml",
+          "size": 673,
+          "type": "file"
+        },
+        {
+          "name": "code_audit_report.json",
+          "path": "code_audit_report.json",
+          "size": 195168,
+          "type": "file"
+        },
+        {
+          "name": "dotnet",
+          "path": "dotnet",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "notebook",
+          "path": "notebook",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 2454,
+          "type": "file"
+        },
+        {
+          "name": "samples",
+          "path": "samples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "scripts",
+          "path": "scripts",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 3521,
+          "type": "file"
+        },
+        {
+          "name": "test",
+          "path": "test",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "website",
+          "path": "website",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "signals": {
+        "has_ci": true,
+        "has_docs": false,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": true,
+        "has_tests": true,
+        "root_directory_count": 9,
+        "root_entry_count": 25,
+        "root_file_count": 16
+      },
+      "size_kb": 938272,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2026-02-08T19:51:30Z",
+      "usefulness_score": 79,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "INTEGRATION CANDIDATE",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Reusable project or source-code structure detected."
+      ],
+      "contents_warning": null,
+      "created_at": "2025-12-19T09:20:34Z",
+      "days_since_push": 116,
+      "default_branch": "master",
+      "description": "Audio synthesis in Python.",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/wavebender",
+      "homepage": "http://zach.se/generate-audio-with-python/",
+      "language": null,
+      "name": "wavebender",
+      "open_issues": 1,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2026-03-23T11:57:51Z",
+      "root_entries": [
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 24,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1078,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST",
+          "path": "MANIFEST",
+          "size": 25,
+          "type": "file"
+        },
+        {
+          "name": "README.markdown",
+          "path": "README.markdown",
+          "size": 227,
+          "type": "file"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 509,
+          "type": "file"
+        },
+        {
+          "name": "wavebender",
+          "path": "wavebender",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "signals": {
+        "has_ci": false,
+        "has_docs": false,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": false,
+        "has_tests": false,
+        "root_directory_count": 2,
+        "root_entry_count": 7,
+        "root_file_count": 5
+      },
+      "size_kb": 29,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2025-12-19T09:20:34Z",
+      "usefulness_score": 48,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "MANUAL REVIEW",
+      "classification_reasons": [
+        "Some potentially reusable material detected."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-09-17T17:50:26Z",
+      "days_since_push": 413,
+      "default_branch": "main",
+      "description": "GitHub Desktop tutorial repository",
+      "disabled": false,
+      "fork": false,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/desktop-tutorial",
+      "homepage": null,
+      "language": null,
+      "name": "desktop-tutorial",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": true,
+      "pushed_at": "2025-05-30T00:50:02Z",
+      "root_entries": [
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 220,
+          "type": "file"
+        }
+      ],
+      "signals": {
+        "has_ci": false,
+        "has_docs": false,
+        "has_gitignore": false,
+        "has_license": false,
+        "has_package_manifest": false,
+        "has_python": false,
+        "has_readme": true,
+        "has_tests": false,
+        "root_directory_count": 0,
+        "root_entry_count": 1,
+        "root_file_count": 1
+      },
+      "size_kb": 1,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2025-05-30T00:50:05Z",
+      "usefulness_score": 40,
+      "visibility": "private"
+    },
+    {
+      "archived": false,
+      "classification": "KEEP ACTIVE",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Reusable project or source-code structure detected."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-09-12T18:21:25Z",
+      "days_since_push": 672,
+      "default_branch": "main",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/vllm",
+      "homepage": "https://docs.vllm.ai",
+      "language": null,
+      "name": "vllm",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2024-09-12T18:16:23Z",
+      "root_entries": [
+        {
+          "name": ".buildkite",
+          "path": ".buildkite",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".clang-format",
+          "path": ".clang-format",
+          "size": 641,
+          "type": "file"
+        },
+        {
+          "name": ".dockerignore",
+          "path": ".dockerignore",
+          "size": 29,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 3481,
+          "type": "file"
+        },
+        {
+          "name": ".readthedocs.yaml",
+          "path": ".readthedocs.yaml",
+          "size": 488,
+          "type": "file"
+        },
+        {
+          "name": ".yapfignore",
+          "path": ".yapfignore",
+          "size": 15,
+          "type": "file"
+        },
+        {
+          "name": "CMakeLists.txt",
+          "path": "CMakeLists.txt",
+          "size": 11016,
+          "type": "file"
+        },
+        {
+          "name": "CODE_OF_CONDUCT.md",
+          "path": "CODE_OF_CONDUCT.md",
+          "size": 5337,
+          "type": "file"
+        },
+        {
+          "name": "CONTRIBUTING.md",
+          "path": "CONTRIBUTING.md",
+          "size": 1823,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile",
+          "path": "Dockerfile",
+          "size": 8808,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.cpu",
+          "path": "Dockerfile.cpu",
+          "size": 2920,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.neuron",
+          "path": "Dockerfile.neuron",
+          "size": 1274,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.openvino",
+          "path": "Dockerfile.openvino",
+          "size": 1068,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.ppc64le",
+          "path": "Dockerfile.ppc64le",
+          "size": 1148,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.rocm",
+          "path": "Dockerfile.rocm",
+          "size": 6544,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.tpu",
+          "path": "Dockerfile.tpu",
+          "size": 829,
+          "type": "file"
+        },
+        {
+          "name": "Dockerfile.xpu",
+          "path": "Dockerfile.xpu",
+          "size": 1245,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 11357,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST.in",
+          "path": "MANIFEST.in",
+          "size": 244,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 7234,
+          "type": "file"
+        },
+        {
+          "name": "benchmarks",
+          "path": "benchmarks",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "cmake",
+          "path": "cmake",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "collect_env.py",
+          "path": "collect_env.py",
+          "size": 25265,
+          "type": "file"
+        },
+        {
+          "name": "csrc",
+          "path": "csrc",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "examples",
+          "path": "examples",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "format.sh",
+          "path": "format.sh",
+          "size": 9755,
+          "type": "file"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 1861,
+          "type": "file"
+        },
+        {
+          "name": "requirements-build.txt",
+          "path": "requirements-build.txt",
+          "size": 120,
+          "type": "file"
+        },
+        {
+          "name": "requirements-common.txt",
+          "path": "requirements-common.txt",
+          "size": 1044,
+          "type": "file"
+        },
+        {
+          "name": "requirements-cpu.txt",
+          "path": "requirements-cpu.txt",
+          "size": 258,
+          "type": "file"
+        },
+        {
+          "name": "requirements-cuda.txt",
+          "path": "requirements-cuda.txt",
+          "size": 555,
+          "type": "file"
+        },
+        {
+          "name": "requirements-dev.txt",
+          "path": "requirements-dev.txt",
+          "size": 152,
+          "type": "file"
+        },
+        {
+          "name": "requirements-lint.txt",
+          "path": "requirements-lint.txt",
+          "size": 191,
+          "type": "file"
+        },
+        {
+          "name": "requirements-neuron.txt",
+          "path": "requirements-neuron.txt",
+          "size": 148,
+          "type": "file"
+        },
+        {
+          "name": "requirements-openvino.txt",
+          "path": "requirements-openvino.txt",
+          "size": 144,
+          "type": "file"
+        },
+        {
+          "name": "requirements-rocm.txt",
+          "path": "requirements-rocm.txt",
+          "size": 151,
+          "type": "file"
+        },
+        {
+          "name": "requirements-test.txt",
+          "path": "requirements-test.txt",
+          "size": 784,
+          "type": "file"
+        },
+        {
+          "name": "requirements-tpu.txt",
+          "path": "requirements-tpu.txt",
+          "size": 208,
+          "type": "file"
+        },
+        {
+          "name": "requirements-xpu.txt",
+          "path": "requirements-xpu.txt",
+          "size": 724,
+          "type": "file"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 17191,
+          "type": "file"
+        },
+        {
+          "name": "tests",
+          "path": "tests",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "vllm",
+          "path": "vllm",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "signals": {
+        "has_ci": true,
+        "has_docs": true,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": true,
+        "has_tests": true,
+        "root_directory_count": 9,
+        "root_entry_count": 44,
+        "root_file_count": 35
+      },
+      "size_kb": 27241,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2024-09-12T18:21:25Z",
+      "usefulness_score": 72,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "BINARY / SIZE REVIEW",
+      "classification_reasons": [
+        "Repository is a fork.",
+        "Repository size exceeds 100000 KB."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-08-28T23:33:01Z",
+      "days_since_push": 688,
+      "default_branch": "main",
+      "description": "Python Imaging Library (Fork)",
+      "disabled": false,
+      "fork": true,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/Pillow",
+      "homepage": "https://python-pillow.org",
+      "language": null,
+      "name": "Pillow",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": false,
+      "pushed_at": "2024-08-28T07:07:27Z",
+      "root_entries": [
+        {
+          "name": ".appveyor.yml",
+          "path": ".appveyor.yml",
+          "size": 3311,
+          "type": "file"
+        },
+        {
+          "name": ".ci",
+          "path": ".ci",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".clang-format",
+          "path": ".clang-format",
+          "size": 545,
+          "type": "file"
+        },
+        {
+          "name": ".coveragerc",
+          "path": ".coveragerc",
+          "size": 647,
+          "type": "file"
+        },
+        {
+          "name": ".editorconfig",
+          "path": ".editorconfig",
+          "size": 383,
+          "type": "file"
+        },
+        {
+          "name": ".git-blame-ignore-revs",
+          "path": ".git-blame-ignore-revs",
+          "size": 189,
+          "type": "file"
+        },
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 45,
+          "type": "file"
+        },
+        {
+          "name": ".github",
+          "path": ".github",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": ".gitignore",
+          "path": ".gitignore",
+          "size": 1072,
+          "type": "file"
+        },
+        {
+          "name": ".gitmodules",
+          "path": ".gitmodules",
+          "size": 110,
+          "type": "file"
+        },
+        {
+          "name": ".pre-commit-config.yaml",
+          "path": ".pre-commit-config.yaml",
+          "size": 2020,
+          "type": "file"
+        },
+        {
+          "name": ".readthedocs.yml",
+          "path": ".readthedocs.yml",
+          "size": 322,
+          "type": "file"
+        },
+        {
+          "name": "CHANGES.rst",
+          "path": "CHANGES.rst",
+          "size": 201843,
+          "type": "file"
+        },
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "size": 1455,
+          "type": "file"
+        },
+        {
+          "name": "MANIFEST.in",
+          "path": "MANIFEST.in",
+          "size": 549,
+          "type": "file"
+        },
+        {
+          "name": "Makefile",
+          "path": "Makefile",
+          "size": 3959,
+          "type": "file"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "size": 6415,
+          "type": "file"
+        },
+        {
+          "name": "RELEASING.md",
+          "path": "RELEASING.md",
+          "size": 4362,
+          "type": "file"
+        },
+        {
+          "name": "Tests",
+          "path": "Tests",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "_custom_build",
+          "path": "_custom_build",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "codecov.yml",
+          "path": "codecov.yml",
+          "size": 507,
+          "type": "file"
+        },
+        {
+          "name": "conftest.py",
+          "path": "conftest.py",
+          "size": 70,
+          "type": "file"
+        },
+        {
+          "name": "depends",
+          "path": "depends",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "docs",
+          "path": "docs",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "pyproject.toml",
+          "path": "pyproject.toml",
+          "size": 4529,
+          "type": "file"
+        },
+        {
+          "name": "selftest.py",
+          "path": "selftest.py",
+          "size": 4799,
+          "type": "file"
+        },
+        {
+          "name": "setup.py",
+          "path": "setup.py",
+          "size": 36722,
+          "type": "file"
+        },
+        {
+          "name": "src",
+          "path": "src",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "tox.ini",
+          "path": "tox.ini",
+          "size": 640,
+          "type": "file"
+        },
+        {
+          "name": "wheels",
+          "path": "wheels",
+          "size": 0,
+          "type": "dir"
+        },
+        {
+          "name": "winbuild",
+          "path": "winbuild",
+          "size": 0,
+          "type": "dir"
+        }
+      ],
+      "signals": {
+        "has_ci": true,
+        "has_docs": true,
+        "has_gitignore": true,
+        "has_license": true,
+        "has_package_manifest": true,
+        "has_python": true,
+        "has_readme": true,
+        "has_tests": true,
+        "root_directory_count": 9,
+        "root_entry_count": 31,
+        "root_file_count": 22
+      },
+      "size_kb": 203439,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2024-08-28T23:33:01Z",
+      "usefulness_score": 72,
+      "visibility": "public"
+    },
+    {
+      "archived": false,
+      "classification": "EMPTY / INCOMPLETE",
+      "classification_reasons": [
+        "Repository appears empty or nearly empty."
+      ],
+      "contents_warning": null,
+      "created_at": "2024-03-25T10:27:40Z",
+      "days_since_push": 844,
+      "default_branch": "main",
+      "description": "advocacy self help",
+      "disabled": false,
+      "fork": false,
+      "forks": 0,
+      "full_name": "ChitlinLoaf/ProductionJunction",
+      "homepage": null,
+      "language": null,
+      "name": "ProductionJunction",
+      "open_issues": 0,
+      "owner": "ChitlinLoaf",
+      "private": true,
+      "pushed_at": "2024-03-25T10:27:42Z",
+      "root_entries": [
+        {
+          "name": ".gitattributes",
+          "path": ".gitattributes",
+          "size": 66,
+          "type": "file"
+        }
+      ],
+      "signals": {
+        "has_ci": false,
+        "has_docs": false,
+        "has_gitignore": false,
+        "has_license": false,
+        "has_package_manifest": false,
+        "has_python": false,
+        "has_readme": false,
+        "has_tests": false,
+        "root_directory_count": 0,
+        "root_entry_count": 1,
+        "root_file_count": 1
+      },
+      "size_kb": 0,
+      "stars": 0,
+      "topics": [],
+      "updated_at": "2024-03-25T10:27:41Z",
+      "usefulness_score": 12,
+      "visibility": "private"
+    }
+  ],
+  "safety": {
+    "audio_upload": false,
+    "branch_creation": false,
+    "commit_creation": false,
+    "http_methods_used": [
+      "GET"
+    ],
+    "repository_deletion": false,
+    "repository_mutation": false,
+    "token_displayed": false
+  },
+  "schema_version": 3,
+  "similarity_groups": [],
+  "summary": {
+    "archived_count": 0,
+    "average_usefulness_score": 60.12,
+    "classification_counts": {
+      "BINARY / SIZE REVIEW": 2,
+      "EMPTY / INCOMPLETE": 1,
+      "INTEGRATION CANDIDATE": 1,
+      "KEEP ACTIVE": 3,
+      "MANUAL REVIEW": 1
+    },
+    "fork_count": 6,
+    "private_count": 2,
+    "public_count": 6,
+    "repository_count": 8,
+    "total_size_kb": 1169770
+  }
+}
