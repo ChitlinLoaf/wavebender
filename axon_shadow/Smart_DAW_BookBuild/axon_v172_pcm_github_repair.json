@@ -1,0 +1,92 @@
+{
+  "github": {
+    "authenticated_account": {},
+    "credential_candidates": [
+      {
+        "account": "github_token",
+        "authenticated": false,
+        "candidate": 1,
+        "fingerprint": "109d785fa20d",
+        "http_status": 401,
+        "length": 40,
+        "message": "Bad credentials",
+        "service": "voice_memo_lab"
+      },
+      {
+        "account": "github_token",
+        "authenticated": false,
+        "candidate": 2,
+        "fingerprint": "c01d55618ade",
+        "http_status": 401,
+        "length": 51,
+        "message": "Bad credentials",
+        "service": "jules.runtime"
+      },
+      {
+        "account": "pool-picnic-0a@icloud.com",
+        "authenticated": false,
+        "candidate": 3,
+        "fingerprint": "50de17759619",
+        "http_status": 401,
+        "length": 20,
+        "message": "Bad credentials",
+        "service": "com.omz-software.pythonista.github"
+      },
+      {
+        "account": "token",
+        "authenticated": false,
+        "candidate": "replacement",
+        "fingerprint": "109d785fa20d",
+        "http_status": 401,
+        "length": 40,
+        "message": "Bad credentials",
+        "service": "AXON_GITHUB"
+      }
+    ],
+    "errors": [
+      "Replacement credential returned HTTP 401: Bad credentials"
+    ],
+    "remote_mutation": false,
+    "saved_alias": null,
+    "status": "FAIL"
+  },
+  "pcm": {
+    "errors": [],
+    "measurements": {
+      "channels": 2,
+      "chunks_read": 8,
+      "clipped_samples": 0,
+      "crest_factor_db": 9.122126028428305,
+      "dc_offset": -2.0743501117980595e-05,
+      "duration_probed_seconds": 2.972154195011338,
+      "finite_samples": 262144,
+      "float_channel_data_types": [
+        "LP_LP_c_float"
+      ],
+      "frames_read": 131072,
+      "invalid_samples": 0,
+      "nonzero_samples": 262144,
+      "peak_dbfs": -22.499171314254163,
+      "peak_linear": 0.07499657571315765,
+      "rms_dbfs": -31.621297342682468,
+      "rms_linear": 0.026238266138727234,
+      "sample_rate_hz": 44100.0,
+      "source_hash_unchanged": true,
+      "source_modified": false,
+      "source_name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+      "source_sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+      "total_frames": 1041344
+    },
+    "source": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+    "status": "PASS"
+  },
+  "project_root": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild",
+  "safety": {
+    "audio_modified": false,
+    "github_remote_mutation": false,
+    "token_displayed": false
+  },
+  "session": "8818B1D7-GH-0DD6BE",
+  "timestamp": "2026-07-17T09:47:17.854363",
+  "version": "1.7.2"
+}

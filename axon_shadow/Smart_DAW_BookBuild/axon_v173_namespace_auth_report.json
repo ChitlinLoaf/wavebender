@@ -1,0 +1,315 @@
+{
+  "github": {
+    "authenticated_account": {},
+    "canonical_alias_written": false,
+    "errors": [
+      "Credential replacement stopped until the exposed token is revoked."
+    ],
+    "remote_repository_mutation": false,
+    "replacement": null,
+    "status": "FAIL",
+    "stored_aliases": [
+      {
+        "account": "github_token",
+        "authenticated": false,
+        "candidate": 1,
+        "http_status": 401,
+        "message": "Bad credentials",
+        "service": "voice_memo_lab",
+        "shape": {
+          "contains_whitespace": false,
+          "fingerprint": "109d785fa20d",
+          "length": 40,
+          "recognized_prefix": "ghp"
+        }
+      },
+      {
+        "account": "github_token",
+        "authenticated": false,
+        "candidate": 2,
+        "http_status": 401,
+        "message": "Bad credentials",
+        "service": "jules.runtime",
+        "shape": {
+          "contains_whitespace": false,
+          "fingerprint": "c01d55618ade",
+          "length": 51,
+          "recognized_prefix": "unrecognized"
+        }
+      },
+      {
+        "account": "pool-picnic-0a@icloud.com",
+        "authenticated": false,
+        "candidate": 3,
+        "http_status": 401,
+        "message": "Bad credentials",
+        "service": "com.omz-software.pythonista.github",
+        "shape": {
+          "contains_whitespace": false,
+          "fingerprint": "50de17759619",
+          "length": 20,
+          "recognized_prefix": "unrecognized"
+        }
+      }
+    ]
+  },
+  "namespace": {
+    "callable_name_count": 17,
+    "callable_names": [
+      "Path",
+      "RuntimeInspector",
+      "agent",
+      "banner",
+      "datetime",
+      "discover_aliases",
+      "fingerprint",
+      "github_auth_cycle",
+      "inspect_runtime_namespace",
+      "main",
+      "normalize_token",
+      "request_headers",
+      "safe_repr",
+      "safe_type_name",
+      "secure_token_input",
+      "token_shape",
+      "validate_token"
+    ],
+    "expected_symbols": {
+      "REPORT": {
+        "callable": false,
+        "present": true,
+        "type": "pathlib.PosixPath"
+      },
+      "ROOT": {
+        "callable": false,
+        "present": true,
+        "type": "pathlib.PosixPath"
+      },
+      "decode_m4a_pcm": {
+        "callable": false,
+        "present": false,
+        "type": null
+      },
+      "github_auth_repair": {
+        "callable": false,
+        "present": false,
+        "type": null
+      },
+      "github_headers": {
+        "callable": false,
+        "present": false,
+        "type": null
+      },
+      "pointer_address": {
+        "callable": false,
+        "present": false,
+        "type": null
+      },
+      "test_github_token": {
+        "callable": false,
+        "present": false,
+        "type": null
+      }
+    },
+    "global_name_count": 33,
+    "locals_snapshot": {
+      "count": 1,
+      "names": [
+        "active_globals"
+      ]
+    },
+    "modules": {
+      "console": {
+        "dir_attribute_count": 25,
+        "present": true,
+        "type": "builtins.module",
+        "vars_attribute_count": 25
+      },
+      "keychain": {
+        "dir_attribute_count": 10,
+        "present": true,
+        "type": "builtins.module",
+        "vars_attribute_count": 10
+      },
+      "requests": {
+        "dir_attribute_count": 69,
+        "present": true,
+        "type": "builtins.module",
+        "vars_attribute_count": 69
+      }
+    },
+    "status": "PASS"
+  },
+  "object_truth": {
+    "capabilities": {
+      "callable_public_attributes": [
+        "capability_report",
+        "public_state"
+      ],
+      "dir_attribute_count": 32,
+      "public_attributes": [
+        "capability_report",
+        "created_at",
+        "github_report",
+        "namespace_report",
+        "public_state",
+        "session"
+      ]
+    },
+    "public_state": {
+      "created_at": "2026-07-17T10:22:17.494936",
+      "github_report": {
+        "authenticated_account": {},
+        "canonical_alias_written": false,
+        "errors": [
+          "Credential replacement stopped until the exposed token is revoked."
+        ],
+        "remote_repository_mutation": false,
+        "replacement": null,
+        "status": "FAIL",
+        "stored_aliases": [
+          {
+            "account": "github_token",
+            "authenticated": false,
+            "candidate": 1,
+            "http_status": 401,
+            "message": "Bad credentials",
+            "service": "voice_memo_lab",
+            "shape": {
+              "contains_whitespace": false,
+              "fingerprint": "109d785fa20d",
+              "length": 40,
+              "recognized_prefix": "ghp"
+            }
+          },
+          {
+            "account": "github_token",
+            "authenticated": false,
+            "candidate": 2,
+            "http_status": 401,
+            "message": "Bad credentials",
+            "service": "jules.runtime",
+            "shape": {
+              "contains_whitespace": false,
+              "fingerprint": "c01d55618ade",
+              "length": 51,
+              "recognized_prefix": "unrecognized"
+            }
+          },
+          {
+            "account": "pool-picnic-0a@icloud.com",
+            "authenticated": false,
+            "candidate": 3,
+            "http_status": 401,
+            "message": "Bad credentials",
+            "service": "com.omz-software.pythonista.github",
+            "shape": {
+              "contains_whitespace": false,
+              "fingerprint": "50de17759619",
+              "length": 20,
+              "recognized_prefix": "unrecognized"
+            }
+          }
+        ]
+      },
+      "namespace_report": {
+        "callable_name_count": 17,
+        "callable_names": [
+          "Path",
+          "RuntimeInspector",
+          "agent",
+          "banner",
+          "datetime",
+          "discover_aliases",
+          "fingerprint",
+          "github_auth_cycle",
+          "inspect_runtime_namespace",
+          "main",
+          "normalize_token",
+          "request_headers",
+          "safe_repr",
+          "safe_type_name",
+          "secure_token_input",
+          "token_shape",
+          "validate_token"
+        ],
+        "expected_symbols": {
+          "REPORT": {
+            "callable": false,
+            "present": true,
+            "type": "pathlib.PosixPath"
+          },
+          "ROOT": {
+            "callable": false,
+            "present": true,
+            "type": "pathlib.PosixPath"
+          },
+          "decode_m4a_pcm": {
+            "callable": false,
+            "present": false,
+            "type": null
+          },
+          "github_auth_repair": {
+            "callable": false,
+            "present": false,
+            "type": null
+          },
+          "github_headers": {
+            "callable": false,
+            "present": false,
+            "type": null
+          },
+          "pointer_address": {
+            "callable": false,
+            "present": false,
+            "type": null
+          },
+          "test_github_token": {
+            "callable": false,
+            "present": false,
+            "type": null
+          }
+        },
+        "global_name_count": 33,
+        "locals_snapshot": {
+          "count": 1,
+          "names": [
+            "active_globals"
+          ]
+        },
+        "modules": {
+          "console": {
+            "dir_attribute_count": 25,
+            "present": true,
+            "type": "builtins.module",
+            "vars_attribute_count": 25
+          },
+          "keychain": {
+            "dir_attribute_count": 10,
+            "present": true,
+            "type": "builtins.module",
+            "vars_attribute_count": 10
+          },
+          "requests": {
+            "dir_attribute_count": 69,
+            "present": true,
+            "type": "builtins.module",
+            "vars_attribute_count": 69
+          }
+        },
+        "status": "PASS"
+      },
+      "session": "8818B1D7-NS-9E877C"
+    }
+  },
+  "project_root": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild",
+  "safety": {
+    "audio_mutation": false,
+    "insecure_password_entry": false,
+    "repository_mutation": false,
+    "token_values_serialized": false
+  },
+  "session": "8818B1D7-NS-9E877C",
+  "timestamp": "2026-07-17T10:22:17.496855",
+  "version": "1.7.3"
+}

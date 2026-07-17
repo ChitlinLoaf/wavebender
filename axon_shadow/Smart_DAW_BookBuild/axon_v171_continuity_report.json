@@ -1,0 +1,36 @@
+{
+  "github_branch_preview": {
+    "account": {},
+    "auth_http_status": 401,
+    "credential": {
+      "configured": true,
+      "token_displayed": false,
+      "token_length": 40
+    },
+    "errors": [
+      "RuntimeError: GitHub authentication HTTP 401"
+    ],
+    "preview": {},
+    "repository": {},
+    "status": "FAIL"
+  },
+  "pcm_rms_truth": {
+    "errors": [
+      "ValueError: invalid literal for int() with base 10: b'\\x90[\\xba\\x0c\\x01\\x00\\x00\\x00'"
+    ],
+    "measurements": {},
+    "status": "FAIL",
+    "traceback": "Traceback (most recent call last):\n  File \"<string>\", line 291, in pcm_rms_probe\nValueError: invalid literal for int() with base 10: b'\\x90[\\xba\\x0c\\x01\\x00\\x00\\x00'\n"
+  },
+  "root": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild",
+  "session": "8818B1D7-GH-F20496",
+  "source_integrity": {
+    "backups": [],
+    "errors": [],
+    "files_checked": 4,
+    "files_repaired": [],
+    "status": "PASS",
+    "valid_python_files": 4
+  },
+  "timestamp": "2026-07-17T09:43:17.738555"
+}

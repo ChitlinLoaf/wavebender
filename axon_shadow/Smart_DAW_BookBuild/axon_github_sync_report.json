@@ -1,0 +1,528 @@
+{
+  "account": {
+    "account_type": "User",
+    "http_status": 200,
+    "login": "ChitlinLoaf",
+    "rate_limit": "5000",
+    "rate_remaining": "4990"
+  },
+  "branch_name": "axon-shadow-20260717-110818",
+  "change_plan": {
+    "changed_count": 17,
+    "changed_paths": [
+      "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_AUDIO_INTELLIGENCE_V4.md",
+      "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_PORTFOLIO_AUDIT.md",
+      "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_collaborator_feature_20260717_033856.py",
+      "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_dsp_vocal_dna_20260717_034519.py",
+      "axon_shadow/Smart_DAW_BookBuild/axon_acoustic_voice_profile.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_audio_provenance_manifest.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_clipboard_execution_report.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_github_audio_intelligence_v4.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_github_portfolio_audit.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_v171_continuity_report.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_v172_pcm_github_repair.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_v173_namespace_auth_report.json",
+      "axon_shadow/Smart_DAW_BookBuild/axon_vocal_dna_profile.md",
+      "axon_shadow/Smart_DAW_BookBuild/axon_vocal_report_ac728342.md",
+      "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.pre_gui_backup.py",
+      "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.py",
+      "axon_shadow/Smart_DAW_BookBuild/smart_daw_state.json"
+    ],
+    "remote_deletions": [],
+    "unchanged_count": 0
+  },
+  "credential": {
+    "fingerprint": "ea2ee2b1ac45",
+    "keychain_account": "token",
+    "keychain_service": "AXON_GITHUB",
+    "token_serialized": false
+  },
+  "generated_at": "2026-07-17T18:08:37.524297+00:00",
+  "inventory": {
+    "approved_bytes": 1277721,
+    "approved_count": 17,
+    "approved_files": [
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/AXON_GITHUB_AUDIO_INTELLIGENCE_V4.md",
+        "mime_type": "text/plain",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_AUDIO_INTELLIGENCE_V4.md",
+        "sha256": "9a06f530992217a77fd94786ef5c2e5a0e90b50c0723b54a1473e73578c37d56",
+        "size_bytes": 4547
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/AXON_GITHUB_PORTFOLIO_AUDIT.md",
+        "mime_type": "text/plain",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_PORTFOLIO_AUDIT.md",
+        "sha256": "ee3ef3e711214b2876c0f2dd7e7da46a1c114967cc4a09089cc7208cc20c151b",
+        "size_bytes": 4142
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_collaborator_feature_20260717_033856.py",
+        "mime_type": "text/x-python",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_collaborator_feature_20260717_033856.py",
+        "sha256": "2aeb07528a41f262f38b9fa276e7194b097795694674cb9d8d354361c095442c",
+        "size_bytes": 38173
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_dsp_vocal_dna_20260717_034519.py",
+        "mime_type": "text/x-python",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_dsp_vocal_dna_20260717_034519.py",
+        "sha256": "cdc41e5dc2ffeedbcb723e9c837705b1e6d1c44cf958ff7a441e3eadacc1654a",
+        "size_bytes": 40005
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_acoustic_voice_profile.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_acoustic_voice_profile.json",
+        "sha256": "f74d67a10c8889da74a170c192d998ecae51b5a8390f4138e199d144cda327f3",
+        "size_bytes": 1214
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_audio_provenance_manifest.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_audio_provenance_manifest.json",
+        "sha256": "18f431d80169d9de58e38bc50dc1f9c1c56c189ced24254570b5a880d8b6b849",
+        "size_bytes": 2526
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_clipboard_execution_report.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_clipboard_execution_report.json",
+        "sha256": "65e5f5ea404405c9b9850f4b19947f6bb54cac06fe5a6e236b2f3f48f4917a1b",
+        "size_bytes": 3387
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_github_audio_intelligence_v4.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_github_audio_intelligence_v4.json",
+        "sha256": "5860c7a2455f116ddeb2e69e6ebc537e601e73fee5500584066cf4218f2e81ca",
+        "size_bytes": 116945
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_github_portfolio_audit.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_github_portfolio_audit.json",
+        "sha256": "2216014eccca8953a54edadfcc1c64f5011025bf8f6d98cc856a6d95d3be734b",
+        "size_bytes": 31915
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_v171_continuity_report.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v171_continuity_report.json",
+        "sha256": "eded7771d59ec7df234dee13a48dc4450f190f4e92477f542db98349cbb8aca2",
+        "size_bytes": 1110
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_v172_pcm_github_repair.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v172_pcm_github_repair.json",
+        "sha256": "22e97bc967bb4a27e48d4bd82fefc2d29f110b9adef733413c208c7ed05649e3",
+        "size_bytes": 2770
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_v173_namespace_auth_report.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v173_namespace_auth_report.json",
+        "sha256": "4e27b635f40f6c816a0b1e3eec7f613baedcc58a72de34dea1196979da36fd14",
+        "size_bytes": 8319
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_vocal_dna_profile.md",
+        "mime_type": "text/plain",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_vocal_dna_profile.md",
+        "sha256": "56c9f239ec5540c1086684fdaca4a24c1fb8873542600c91fa01c18b785b6012",
+        "size_bytes": 3617
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_vocal_report_ac728342.md",
+        "mime_type": "text/plain",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_vocal_report_ac728342.md",
+        "sha256": "8e7433ac3e961b5c341fb9da049735af9d431bb86ca91751239217a23279a7a3",
+        "size_bytes": 1836
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/smart_daw_core.pre_gui_backup.py",
+        "mime_type": "text/x-python",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.pre_gui_backup.py",
+        "sha256": "88ea4493887a030102bc1f6f6daebdce9e5052bdba55071bc4522d0e015256eb",
+        "size_bytes": 6228
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/smart_daw_core.py",
+        "mime_type": "text/x-python",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.py",
+        "sha256": "d6026464803905633aab03b4b768095656153dae6d1ab4d7420ee5ecec260db4",
+        "size_bytes": 46716
+      },
+      {
+        "local_path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/smart_daw_state.json",
+        "mime_type": "application/json",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_state.json",
+        "sha256": "5184a20ae52c986a2768bc55e9fe0ac9301253571392fcb331fa725925d6ca41",
+        "size_bytes": 964271
+      }
+    ],
+    "project_root": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild",
+    "rejected_count": 51,
+    "rejected_files": [
+      {
+        "path": "AXON_GITHUB_KEYCHAIN_NOTE.md",
+        "reason": "protected filename"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121610_f7c7af074e_f5ff4f48_West Los Angeles VA Medical Center 249.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121613_0c7cdc4d2b_003_New Recording 351.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121613_0c7cdc4d2b_1b67fe7f_003_New Recording 351.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121613_aa77bd8b6a_0238816a_West Los Angeles VA Medical Center 250.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121613_aa77bd8b6a_West Los Angeles VA Medical Center 250.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121614_4549045843_005_New Recording 352.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121614_4549045843_8f2f933b_005_New Recording 352.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121622_c1ca27421a_08ed92dc_West Los Angeles VA Medical Center 255.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121622_c1ca27421a_West Los Angeles VA Medical Center 255.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121654_ea6627d4df_006_New Recording 360.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121654_ea6627d4df_ee609233_006_New Recording 360.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121658_72166793d0_007_New Recording 365.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121658_72166793d0_94bbe074_007_New Recording 365.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121658_c6dbc67d14_002_New Recording 366.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260606_121658_c6dbc67d14_a3809a3a_002_New Recording 366.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260625_075947_eca54abcc9_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260625_075947_eca54abcc9_f0b89280_01_doubling_up_the_pressure_now_we_syncopated.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260625_080018_69d10df6fe_02_full_step_out_on_the_count_now_we_activated.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260625_080018_69d10df6fe_dee62295_02_full_step_out_on_the_count_now_we_activated.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_193246_7b4d998b6e_8e46604a_jules_voice_prompt_20260628_193236.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_193246_7b4d998b6e_jules_voice_prompt_20260628_193236.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_193607_7bb82c1d64_72b44428_voice_prompt_20260628_193557.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_193607_7bb82c1d64_voice_prompt_20260628_193557.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_194750_0dbb28280e_434a2bfd_jules_voice_prompt_20260628_194738.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_194750_0dbb28280e_jules_voice_prompt_20260628_194738.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_195012_d10b8712af_2c84dd2e_jules_voice_prompt_20260628_195000.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_195012_d10b8712af_jules_voice_prompt_20260628_195000.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_200739_c48a0a34d0_ac7190b0_frontend_probe.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_200739_c48a0a34d0_frontend_probe.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_202446_c6dbc67d14_76582777_source_2026-06-28_20-24-46.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260628_202446_c6dbc67d14_source_2026-06-28_20-24-46.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_2b0422c8_fresh_vocal_2026-06-29_06-41-07.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_a58117f8_source_2026-06-29_06-41-20.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_fresh_vocal_2026-06-29_06-41-07.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260629_064120_812f5f1b00_source_2026-06-29_06-41-20.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260712_184948_714755a1ca_20260714_212148_New Recording 398.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260712_184948_714755a1ca_20260715_031312_20260714_212148_New Recording 398.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260714_184022_73123dd18d_20260714_213131_New Recording 406.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260714_184022_73123dd18d_20260714_214856_New Recording 406.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Audio_Library/Recent_M4A/20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Recovery/Collaborator_Patches/smart_daw_core.masts_v141_affd9c8c_20260717_044123.bak",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Recovery/V16_Hypervisor/smart_daw_core_20260717_062404.bak",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "Recovery/V16_Hypervisor/smart_daw_state_20260717_062404.bak",
+        "reason": "excluded file type"
+      },
+      {
+        "path": "__pycache__/smart_daw_core.cpython-310.pyc",
+        "reason": "excluded directory"
+      },
+      {
+        "path": "__pycache__/smart_daw_core.masts_v141_candidate.cpython-310.pyc",
+        "reason": "excluded directory"
+      },
+      {
+        "path": "axon_github_credential_meta.json",
+        "reason": "protected filename"
+      },
+      {
+        "path": "axon_intelligence_v16.db",
+        "reason": "unapproved file type"
+      },
+      {
+        "path": "smart_daw_build.log",
+        "reason": "unapproved file type"
+      },
+      {
+        "path": "smart_daw_core.bak_ac728342",
+        "reason": "unapproved file type"
+      },
+      {
+        "path": "smart_daw_core.masts_1784287083.bak",
+        "reason": "excluded file type"
+      }
+    ],
+    "secret_findings": []
+  },
+  "manifest": {
+    "path": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild/axon_github_sync_manifest.json",
+    "sha256": "ae08d1dead02a74da7f2a8c8ebb1684b3108b85e7ba75fbdfe89cafd426bef94"
+  },
+  "repository": {
+    "archived": false,
+    "default_branch": "master",
+    "disabled": false,
+    "full_name": "ChitlinLoaf/wavebender",
+    "permissions": {
+      "admin": true,
+      "maintain": true,
+      "pull": true,
+      "push": true,
+      "triage": true
+    },
+    "visibility": "public"
+  },
+  "safety": {
+    "audio_uploaded": false,
+    "default_branch_modified": false,
+    "force_push": false,
+    "remote_deletions": 0,
+    "token_serialized": false
+  },
+  "schema_version": 2,
+  "session_id": "AXON-GVK-A67FB3AA",
+  "synchronization": {
+    "blobs": [
+      {
+        "blob_sha": "9a3b4516c5a03034b7790b77a763ab54e954b253",
+        "local_sha256": "9a06f530992217a77fd94786ef5c2e5a0e90b50c0723b54a1473e73578c37d56",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_AUDIO_INTELLIGENCE_V4.md",
+        "size_bytes": 4547
+      },
+      {
+        "blob_sha": "87bcea784352a9fb994025192112c1832d8f7469",
+        "local_sha256": "ee3ef3e711214b2876c0f2dd7e7da46a1c114967cc4a09089cc7208cc20c151b",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/AXON_GITHUB_PORTFOLIO_AUDIT.md",
+        "size_bytes": 4142
+      },
+      {
+        "blob_sha": "ad7249bb101b86ffb4059a34b375a935ac768889",
+        "local_sha256": "2aeb07528a41f262f38b9fa276e7194b097795694674cb9d8d354361c095442c",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_collaborator_feature_20260717_033856.py",
+        "size_bytes": 38173
+      },
+      {
+        "blob_sha": "9abda0ccdef03b4b3a739568ae75096fc02346b6",
+        "local_sha256": "cdc41e5dc2ffeedbcb723e9c837705b1e6d1c44cf958ff7a441e3eadacc1654a",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/Recovery/Collaborator_Patches/smart_daw_core_before_dsp_vocal_dna_20260717_034519.py",
+        "size_bytes": 40005
+      },
+      {
+        "blob_sha": "58f232b2715ca3e0664342d7b5b58e0b72b91b54",
+        "local_sha256": "f74d67a10c8889da74a170c192d998ecae51b5a8390f4138e199d144cda327f3",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_acoustic_voice_profile.json",
+        "size_bytes": 1214
+      },
+      {
+        "blob_sha": "ebdd2b6de9734c75e87f84a73e04e6e839a8e381",
+        "local_sha256": "18f431d80169d9de58e38bc50dc1f9c1c56c189ced24254570b5a880d8b6b849",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_audio_provenance_manifest.json",
+        "size_bytes": 2526
+      },
+      {
+        "blob_sha": "385bb6c4d2a216d695e0b4f2a5195295e108626e",
+        "local_sha256": "65e5f5ea404405c9b9850f4b19947f6bb54cac06fe5a6e236b2f3f48f4917a1b",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_clipboard_execution_report.json",
+        "size_bytes": 3387
+      },
+      {
+        "blob_sha": "cd2dc9a355b59b8fdb644d8c03910ea048006628",
+        "local_sha256": "5860c7a2455f116ddeb2e69e6ebc537e601e73fee5500584066cf4218f2e81ca",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_github_audio_intelligence_v4.json",
+        "size_bytes": 116945
+      },
+      {
+        "blob_sha": "99ee1cf93fb8bef324d7ad12c32a1e362176c5b2",
+        "local_sha256": "2216014eccca8953a54edadfcc1c64f5011025bf8f6d98cc856a6d95d3be734b",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_github_portfolio_audit.json",
+        "size_bytes": 31915
+      },
+      {
+        "blob_sha": "71ead22b37bfb2683cc3fc44866999c846bba824",
+        "local_sha256": "eded7771d59ec7df234dee13a48dc4450f190f4e92477f542db98349cbb8aca2",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v171_continuity_report.json",
+        "size_bytes": 1110
+      },
+      {
+        "blob_sha": "7762a8a802d2149431d5143fc62ede1c1eda0ddb",
+        "local_sha256": "22e97bc967bb4a27e48d4bd82fefc2d29f110b9adef733413c208c7ed05649e3",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v172_pcm_github_repair.json",
+        "size_bytes": 2770
+      },
+      {
+        "blob_sha": "4158886755cbfa93150860f7c682c7ff48f495f7",
+        "local_sha256": "4e27b635f40f6c816a0b1e3eec7f613baedcc58a72de34dea1196979da36fd14",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_v173_namespace_auth_report.json",
+        "size_bytes": 8319
+      },
+      {
+        "blob_sha": "24c56776727d3feb20345c0d3459270597e645bc",
+        "local_sha256": "56c9f239ec5540c1086684fdaca4a24c1fb8873542600c91fa01c18b785b6012",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_vocal_dna_profile.md",
+        "size_bytes": 3617
+      },
+      {
+        "blob_sha": "57d3ac974c35d1bfef431fcc4bcea621e1b40ec6",
+        "local_sha256": "8e7433ac3e961b5c341fb9da049735af9d431bb86ca91751239217a23279a7a3",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/axon_vocal_report_ac728342.md",
+        "size_bytes": 1836
+      },
+      {
+        "blob_sha": "2b7c457bdeb2ffb6e3f8658a74a04555f1e46178",
+        "local_sha256": "88ea4493887a030102bc1f6f6daebdce9e5052bdba55071bc4522d0e015256eb",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.pre_gui_backup.py",
+        "size_bytes": 6228
+      },
+      {
+        "blob_sha": "fed2b919c9a9df5059607e1f9bd0d11dbe26a20d",
+        "local_sha256": "d6026464803905633aab03b4b768095656153dae6d1ab4d7420ee5ecec260db4",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_core.py",
+        "size_bytes": 46716
+      },
+      {
+        "blob_sha": "95852ad63afa85e64696878d0fe3b4e033671a60",
+        "local_sha256": "5184a20ae52c986a2768bc55e9fe0ac9301253571392fcb331fa725925d6ca41",
+        "remote_path": "axon_shadow/Smart_DAW_BookBuild/smart_daw_state.json",
+        "size_bytes": 964271
+      }
+    ],
+    "branch": {
+      "base_tree_sha": "9b3a5835d9d74decfc43d47088cbc5c12b76c96f",
+      "branch_commit_sha": "e80426c2c41d3043acf5ec07d0fe8265e96c5775",
+      "branch_created": true,
+      "branch_name": "axon-shadow-20260717-110818",
+      "default_branch_sha": "e80426c2c41d3043acf5ec07d0fe8265e96c5775"
+    },
+    "commit_sha": "e6d9e10a0ff70973cbb980a7f8f0d9c89c1cd828",
+    "status": "COMMITTED",
+    "tree_sha": "404138b53c5c730c1acc4b81ccc4f457d4fc557b",
+    "updated_reference": {
+      "ref": "refs/heads/axon-shadow-20260717-110818",
+      "sha": "e6d9e10a0ff70973cbb980a7f8f0d9c89c1cd828"
+    },
+    "verified": true,
+    "verified_reference": {
+      "ref": "refs/heads/axon-shadow-20260717-110818",
+      "sha": "e6d9e10a0ff70973cbb980a7f8f0d9c89c1cd828"
+    }
+  },
+  "version": "6.1.0"
+}

@@ -1,0 +1,90 @@
+{
+  "audio_files": [],
+  "clipboard_sha256": "7d7d7962575c95913aac495d3a60b913699c3fc6b9b6786b47418634ef5fb30d",
+  "commands": {
+    "/audit": "Rebuild inventory and verify source integrity.",
+    "/auto-finish": "Execute all supported tasks once.",
+    "/auto-next": "Execute the next incomplete supported task.",
+    "/dsp": "Run one bounded, read-only PCM probe.",
+    "/exit": "Leave the interactive console.",
+    "/garbage-review": "Review quarantine candidates; delete nothing.",
+    "/gui": "Open the AXON dashboard.",
+    "/report": "Write and display the JSON report.",
+    "/rollback": "No source patch is installed by this script.",
+    "/tasks": "Print task registry."
+  },
+  "completed_at": "2026-07-17T09:01:28.189913",
+  "decision": "PARTIALLY RELEASED",
+  "evidence": [
+    "PCM_PROBE={\"amplitude_probe\": \"Unsupported safely on this runtime: invalid literal for int() with base 10: b'\\\\x00>@\\\\x1e\\\\x01\\\\x00\\\\x00\\\\x00'\", \"channels\": 2, \"duration_seconds\": 3.3725396825396827, \"file_frames\": 148729, \"method\": \"AVAudioFile.readIntoBuffer:error:\", \"returned_frames\": 16384, \"sample_rate\": 44100.0, \"source\": \"GEMINI_REC_20260716_210428.wav\", \"source_sha256\": \"8c602b01010e81e1f43f5c409b771fa284b4cb8851288601054d73f83c7eccdc\"}"
+  ],
+  "files": [],
+  "garbage_candidates": [],
+  "gui_launchers": [],
+  "root": "/private/var/mobile/Containers/Shared/AppGroup/EA5F3CE9-CA9B-439E-97B1-B84FEC0EA73F/Pythonista3/Documents/Smart_DAW_BookBuild",
+  "session_id": "8818B1D7",
+  "started_at": "2026-07-17T09:01:27.197659",
+  "tasks": {
+    "DEC-PCM-001": {
+      "blocker": null,
+      "description": "Bounded AVAudioFile PCM Read",
+      "duration_ms": 987.6916249995702,
+      "evidence": [
+        "Opened GEMINI_REC_20260716_210428.wav",
+        "Read 16384 bounded PCM frames",
+        "Format: 44100.0 Hz / 2 channel(s)",
+        "Source remained read-only"
+      ],
+      "owner": "DecodeAgent",
+      "remediation": "Frame decoding passed; verify Float32 sample pointers before publishing spectral conclusions.",
+      "status": "WARNING",
+      "task_id": "DEC-PCM-001"
+    },
+    "GARB-001": {
+      "blocker": null,
+      "description": "Review Disposable Artifacts",
+      "duration_ms": 0.0048340007197111845,
+      "evidence": [
+        "0 quarantine candidates; nothing deleted"
+      ],
+      "owner": "GarbageCollectorAgent",
+      "remediation": null,
+      "status": "PASS",
+      "task_id": "GARB-001"
+    },
+    "GUI-001": {
+      "blocker": null,
+      "description": "Verify Dashboard Patch Markers",
+      "duration_ms": 0.0,
+      "evidence": [],
+      "owner": "GUIAgent",
+      "remediation": null,
+      "status": "PASS",
+      "task_id": "GUI-001"
+    },
+    "GUI-002": {
+      "blocker": null,
+      "description": "Launch Dashboard and Test Controls",
+      "duration_ms": 0.001415995939169079,
+      "evidence": [
+        "AXON dashboard constructed",
+        "Command buttons bound",
+        "UI presentation queued on main thread"
+      ],
+      "owner": "GUIAgent",
+      "remediation": null,
+      "status": "PASS",
+      "task_id": "GUI-002"
+    },
+    "INV-001": {
+      "blocker": null,
+      "description": "Rebuild Project Inventory",
+      "duration_ms": 0.0,
+      "evidence": [],
+      "owner": "ArchitectAgent",
+      "remediation": null,
+      "status": "PASS",
+      "task_id": "INV-001"
+    }
+  }
+}

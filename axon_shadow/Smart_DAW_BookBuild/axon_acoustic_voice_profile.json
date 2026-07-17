@@ -1,0 +1,30 @@
+{
+  "amplitude_percentile_95": 0.049194253981113434,
+  "biometric_identity_claim": false,
+  "channels": 2,
+  "clipped_sample_count": 0,
+  "crest_factor_db": 9.611024539138533,
+  "dc_offset": 4.440642320906185e-06,
+  "duration_analyzed_seconds": 4.458231292517007,
+  "frames_analyzed": 196608,
+  "peak_dbfs": -22.499171314254163,
+  "peak_linear": 0.07499657571315765,
+  "person_identification_supported": false,
+  "profile_kind": "non-identifying acoustic signal profile",
+  "profile_sha256": "b702b641dbb39fac8d44c4583c0972c82acc52c6e432270ab720f40608bf2a2d",
+  "rms_dbfs": -32.110195853392696,
+  "rms_linear": 0.024802200119328086,
+  "sample_rate_hz": 44100.0,
+  "samples_analyzed": 196608,
+  "silence_ratio_below_minus_60_dbfs": 0.045064290364583336,
+  "source_name": "20260715_073449_7196ee9e5d_fresh_vocal_20260715_073354.m4a",
+  "source_sha256": "7196ee9e5df9bdce413d9df9fe147c56740d0707c62648b165f642be1212b83e",
+  "spectral_features": {
+    "dominant_frequency_hz": 104.974365234375,
+    "numpy_available": true,
+    "spectral_centroid_hz": 1613.4174311109523,
+    "spectral_flatness": 0.03243612315237842,
+    "spectral_rolloff_85_hz": 3262.9531860351562
+  },
+  "zero_crossing_rate": 0.012883569760995285
+}
